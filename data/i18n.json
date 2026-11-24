@@ -1,0 +1,2326 @@
+{
+ "Log in and Sync": {
+  "hi": "लॉग इन करें और Sync करें",
+  "gu": "લૉગ ઇન કરો અને Sync કરો"
+ },
+ "Log in once, then Sync every morning and evening.": {
+  "hi": "एक बार लॉग इन करें, फिर हर सुबह और शाम Sync करें।",
+  "gu": "એક વાર લૉગ ઇન કરો, પછી રોજ સવારે અને સાંજે Sync કરો."
+ },
+ "Log in with your user ID": {
+  "hi": "अपने यूज़र ID से लॉग इन करें",
+  "gu": "તમારા યુઝર ID થી લૉગ ઇન કરો"
+ },
+ "The app downloads your villages and forms": {
+  "hi": "ऐप आपके गाँव और फ़ॉर्म डाउनलोड करता है",
+  "gu": "એપ તમારાં ગામ અને ફોર્મ ડાઉનલોડ કરે છે"
+ },
+ "Home opens": {
+  "hi": "Home खुलता है",
+  "gu": "Home ખૂલે છે"
+ },
+ "Sync after your work": {
+  "hi": "काम के बाद Sync करें",
+  "gu": "કામ પછી Sync કરો"
+ },
+ "The app works without internet. Only Sync needs internet.": {
+  "hi": "ऐप बिना इंटरनेट के चलता है। सिर्फ़ Sync के लिए इंटरनेट चाहिए।",
+  "gu": "એપ ઇન્ટરનેટ વગર ચાલે છે. ફક્ત Sync માટે ઇન્ટરનેટ જોઈએ."
+ },
+ "Sync in the morning and again after your work.": {
+  "hi": "सुबह Sync करें, और काम के बाद फिर से करें।",
+  "gu": "સવારે Sync કરો, અને કામ પછી ફરીથી કરો."
+ },
+ "Type your **User ID**. Example: **kajal@desai_demo**": {
+  "hi": "अपना **User ID** लिखें। जैसे: **kajal@desai_demo**",
+  "gu": "તમારું **User ID** લખો. જેમ કે: **kajal@desai_demo**"
+ },
+ "Your admin gives you the user ID. It ends with the name of your organisation.": {
+  "hi": "यूज़र ID आपको एडमिन देंगे। इसके आख़िर में आपकी संस्था का नाम होता है।",
+  "gu": "યુઝર ID તમને એડમિન આપશે. તેના છેડે તમારી સંસ્થાનું નામ હોય છે."
+ },
+ "Type your **Password**.": {
+  "hi": "अपना **Password** लिखें।",
+  "gu": "તમારો **Password** લખો."
+ },
+ "Tap **LOGIN**.": {
+  "hi": "**LOGIN** पर टैप करें।",
+  "gu": "**LOGIN** પર ટેપ કરો."
+ },
+ "The app is bringing your data. When you see **Sync Complete**, tap **OK**.": {
+  "hi": "ऐप आपका डेटा ला रहा है। जब **Sync Complete** दिखे, तो **OK** पर टैप करें।",
+  "gu": "એપ તમારો ડેટા લાવી રહી છે. **Sync Complete** દેખાય ત્યારે **OK** પર ટેપ કરો."
+ },
+ "The first sync needs internet and can take a few minutes on a slow network.": {
+  "hi": "पहली बार Sync में इंटरनेट चाहिए, और धीमे नेटवर्क पर कुछ मिनट लग सकते हैं।",
+  "gu": "પહેલી વાર Sync માં ઇન્ટરનેટ જોઈએ, અને ધીમા નેટવર્ક પર થોડી મિનિટ લાગી શકે."
+ },
+ "This is your **Home**. Each coloured box is a **card**. The big number tells how many records wait there.": {
+  "hi": "यह आपका **Home** है। हर रंगीन बॉक्स एक **कार्ड** है। बड़ा नंबर बताता है कि वहाँ कितने रिकॉर्ड बाकी हैं।",
+  "gu": "આ તમારું **Home** છે. દરેક રંગીન બોક્સ એક **કાર્ડ** છે. મોટો નંબર બતાવે છે કે ત્યાં કેટલા રેકોર્ડ બાકી છે."
+ },
+ "Tap **Sync** (the two round arrows, top right).": {
+  "hi": "**Sync** पर टैप करें (ऊपर दाईं ओर, दो गोल तीर)।",
+  "gu": "**Sync** પર ટેપ કરો (ઉપર જમણી બાજુ, બે ગોળ તીર)."
+ },
+ "Sync sends your saved work to the server and brings new work. Do it every morning and every evening.": {
+  "hi": "Sync आपका सेव किया हुआ काम सर्वर पर भेजता है और नया काम लाता है। इसे हर सुबह और हर शाम करें।",
+  "gu": "Sync તમારું સેવ કરેલું કામ સર્વર પર મોકલે છે અને નવું કામ લાવે છે. આ રોજ સવારે અને રોજ સાંજે કરો."
+ },
+ "Wait for **Sync Complete**, then tap **OK**.": {
+  "hi": "**Sync Complete** का इंतज़ार करें, फिर **OK** पर टैप करें।",
+  "gu": "**Sync Complete** ની રાહ જુઓ, પછી **OK** પર ટેપ કરો."
+ },
+ "Read your Home": {
+  "hi": "अपना Home समझें",
+  "gu": "તમારું Home સમજો"
+ },
+ "What each card means, and the village filter.": {
+  "hi": "हर कार्ड का मतलब, और गाँव का फ़िल्टर।",
+  "gu": "દરેક કાર્ડનો અર્થ, અને ગામનું ફિલ્ટર."
+ },
+ "Look at the four sections": {
+  "hi": "चारों हिस्से देखें",
+  "gu": "ચારેય ભાગ જુઓ"
+ },
+ "Open a card": {
+  "hi": "एक कार्ड खोलें",
+  "gu": "એક કાર્ડ ખોલો"
+ },
+ "See who is in it": {
+  "hi": "देखें उसमें कौन-कौन है",
+  "gu": "જુઓ તેમાં કોણ કોણ છે"
+ },
+ "Filter by village": {
+  "hi": "गाँव के हिसाब से फ़िल्टर करें",
+  "gu": "ગામ પ્રમાણે ફિલ્ટર કરો"
+ },
+ "Start each day with **Mark today** and **Do first**.": {
+  "hi": "हर दिन की शुरुआत **Mark today** और **Do first** से करें।",
+  "gu": "રોજ દિવસની શરૂઆત **Mark today** અને **Do first** થી કરો."
+ },
+ "A card with 0 means nothing is waiting there.": {
+  "hi": "जिस कार्ड पर 0 है, वहाँ कुछ बाकी नहीं है।",
+  "gu": "જે કાર્ડ પર 0 છે, ત્યાં કંઈ બાકી નથી."
+ },
+ "**Mark today** lists the batches whose class today is not marked yet, and batches with a class in the last 3 days that was never marked.": {
+  "hi": "**Mark today** में वे बैच हैं जिनकी आज की क्लास की हाज़िरी अभी नहीं लगी, और वे बैच जिनकी पिछले 3 दिन की कोई क्लास कभी मार्क नहीं हुई।",
+  "gu": "**Mark today** માં એ બેચ છે જેના આજના ક્લાસની હાજરી હજી પુરાઈ નથી, અને એ બેચ જેનો છેલ્લા 3 દિવસનો કોઈ ક્લાસ ક્યારેય માર્ક થયો નથી."
+ },
+ "These cards look at Sewing, Computer, Beautician and Summer Camp batches, the courses that take attendance.": {
+  "hi": "ये कार्ड सिलाई, कंप्यूटर, ब्यूटीशियन और समर कैंप के बैच देखते हैं, यानी वे कोर्स जिनमें हाज़िरी लगती है।",
+  "gu": "આ કાર્ડ સિલાઈ, કમ્પ્યુટર, બ્યુટીશિયન અને સમર કેમ્પના બેચ જુએ છે, એટલે કે એ કોર્સ જેમાં હાજરી પુરાય છે."
+ },
+ "Attendance cards": {
+  "hi": "हाज़िरी वाले कार्ड",
+  "gu": "હાજરીનાં કાર્ડ"
+ },
+ "**Do first (overdue)** is late work: follow-ups and tests past their last date, and people who did not follow a referral.": {
+  "hi": "**Do first (overdue)** देर वाला काम है: फ़ॉलो-अप और टेस्ट जिनकी आख़िरी तारीख निकल गई, और वे लोग जो रेफ़रल पर नहीं गए।",
+  "gu": "**Do first (overdue)** એટલે મોડું થયેલું કામ: ફોલો-અપ અને ટેસ્ટ જેની છેલ્લી તારીખ વીતી ગઈ, અને એ લોકો જે રેફરલ પર ગયા નથી."
+ },
+ "Home ordered by urgency": {
+  "hi": "Home: सबसे ज़रूरी काम सबसे पहले",
+  "gu": "Home: સૌથી જરૂરી કામ સૌથી પહેલાં"
+ },
+ "**Due now** is work for today: follow-ups, Baselines and Endlines that are due.": {
+  "hi": "**Due now** आज का काम है: फ़ॉलो-अप, बेसलाइन और एंडलाइन जो अभी करने हैं।",
+  "gu": "**Due now** એટલે આજનું કામ: ફોલો-અપ, બેઝલાઇન અને એન્ડલાઇન જે હમણાં કરવાનાં છે."
+ },
+ "**My entries** counts your registrations and visits this week, and all beneficiaries.": {
+  "hi": "**My entries** में इस हफ़्ते के आपके रजिस्ट्रेशन और विज़िट गिने जाते हैं, और सभी लाभार्थी भी।",
+  "gu": "**My entries** માં આ અઠવાડિયાનાં તમારાં રજિસ્ટ્રેશન અને વિઝિટ ગણાય છે, અને બધા લાભાર્થી પણ."
+ },
+ "Tap the **Health follow-ups overdue** card.": {
+  "hi": "**Health follow-ups overdue** कार्ड पर टैप करें।",
+  "gu": "**Health follow-ups overdue** કાર્ડ પર ટેપ કરો."
+ },
+ "These people have a health follow-up that is late. Tap a name to open the person and fill the follow-up.": {
+  "hi": "इन लोगों का हेल्थ फ़ॉलो-अप देर से चल रहा है। व्यक्ति को खोलकर फ़ॉलो-अप भरने के लिए नाम पर टैप करें।",
+  "gu": "આ લોકોનું હેલ્થ ફોલો-અપ મોડું થયું છે. વ્યક્તિને ખોલીને ફોલો-અપ ભરવા માટે નામ પર ટેપ કરો."
+ },
+ "Tap **Home** (top right) to go back.": {
+  "hi": "वापस जाने के लिए **Home** (ऊपर दाईं ओर) पर टैप करें।",
+  "gu": "પાછા જવા માટે **Home** (ઉપર જમણી બાજુ) પર ટેપ કરો."
+ },
+ "The Home icon works from every screen.": {
+  "hi": "Home का आइकन हर स्क्रीन से काम करता है।",
+  "gu": "Home નું આઇકન દરેક સ્ક્રીન પરથી કામ કરે છે."
+ },
+ "Tap **FILTER** to see one village only.": {
+  "hi": "सिर्फ़ एक गाँव देखने के लिए **FILTER** पर टैप करें।",
+  "gu": "ફક્ત એક ગામ જોવા માટે **FILTER** પર ટેપ કરો."
+ },
+ "Tick **Gujarat**. The next level opens below.": {
+  "hi": "**Gujarat** पर टिक करें। नीचे अगला लेवल खुलेगा।",
+  "gu": "**Gujarat** પર ટિક કરો. નીચે આગળનું લેવલ ખૂલશે."
+ },
+ "You can stop at any level: a district or block includes every village under it.": {
+  "hi": "आप किसी भी लेवल पर रुक सकते हैं: ज़िला या ब्लॉक चुनने पर उसके नीचे के सारे गाँव आ जाते हैं।",
+  "gu": "તમે કોઈ પણ લેવલ પર અટકી શકો: જિલ્લો કે બ્લોક પસંદ કરો તો તેની નીચેનાં બધાં ગામ આવી જાય."
+ },
+ "Tick **South Gujarat**.": {
+  "hi": "**South Gujarat** पर टिक करें।",
+  "gu": "**South Gujarat** પર ટિક કરો."
+ },
+ "Tick **Navsari**.": {
+  "hi": "**Navsari** पर टिक करें।",
+  "gu": "**Navsari** પર ટિક કરો."
+ },
+ "Tick **Chikhali**.": {
+  "hi": "**Chikhali** पर टिक करें।",
+  "gu": "**Chikhali** પર ટિક કરો."
+ },
+ "Tick the village **Agasi**.": {
+  "hi": "गाँव **Agasi** पर टिक करें।",
+  "gu": "ગામ **Agasi** પર ટિક કરો."
+ },
+ "Tap **Apply**.": {
+  "hi": "**Apply** पर टैप करें।",
+  "gu": "**Apply** પર ટેપ કરો."
+ },
+ "The grey box shows the filter: **Village - Agasi**. Every card now counts Agasi only. The small icon on the right removes the filter.": {
+  "hi": "ग्रे बॉक्स में फ़िल्टर दिखता है: **Village - Agasi**। अब हर कार्ड सिर्फ़ Agasi को गिनता है। दाईं ओर का छोटा आइकन फ़िल्टर हटा देता है।",
+  "gu": "ગ્રે બોક્સમાં ફિલ્ટર દેખાય છે: **Village - Agasi**. હવે દરેક કાર્ડ ફક્ત Agasi ને ગણે છે. જમણી બાજુનું નાનું આઇકન ફિલ્ટર હટાવી દે છે."
+ },
+ "Village filter on every Home": {
+  "hi": "हर Home पर गाँव का फ़िल्टर",
+  "gu": "દરેક Home પર ગામનું ફિલ્ટર"
+ },
+ "Find a person": {
+  "hi": "किसी व्यक्ति को ढूँढें",
+  "gu": "વ્યક્તિને શોધો"
+ },
+ "Search by name and open the person's page.": {
+  "hi": "नाम से खोजें और व्यक्ति का पेज खोलें।",
+  "gu": "નામથી શોધો અને વ્યક્તિનું પેજ ખોલો."
+ },
+ "Tap Search": {
+  "hi": "Search पर टैप करें",
+  "gu": "Search પર ટેપ કરો"
+ },
+ "Choose the type and type a name": {
+  "hi": "टाइप चुनें और नाम लिखें",
+  "gu": "પ્રકાર પસંદ કરો અને નામ લખો"
+ },
+ "Open the person": {
+  "hi": "व्यक्ति को खोलें",
+  "gu": "વ્યક્તિને ખોલો"
+ },
+ "Read the person's page": {
+  "hi": "व्यक्ति का पेज पढ़ें",
+  "gu": "વ્યક્તિનું પેજ વાંચો"
+ },
+ "Always search before registering, so nobody is entered twice.": {
+  "hi": "रजिस्टर करने से पहले हमेशा खोजें, ताकि कोई दो बार न जुड़ जाए।",
+  "gu": "રજિસ્ટર કરતાં પહેલાં હંમેશાં શોધો, જેથી કોઈ બે વાર ન ઉમેરાય."
+ },
+ "Tap the **Search** icon (magnifying glass) at the top.": {
+  "hi": "ऊपर **Search** आइकन (लेंस वाला निशान) पर टैप करें।",
+  "gu": "ઉપર **Search** આઇકન (લેન્સનું નિશાન) પર ટેપ કરો."
+ },
+ "Under **Choose type**, tap **Beneficiary**.": {
+  "hi": "**Choose type** के नीचे **Beneficiary** पर टैप करें।",
+  "gu": "**Choose type** નીચે **Beneficiary** પર ટેપ કરો."
+ },
+ "Choose a batch type (for example Sewing (SST)) or Event Matrix to find those instead.": {
+  "hi": "बैच ढूँढने के लिए बैच का टाइप (जैसे Sewing (SST)) चुनें, या इवेंट के लिए Event Matrix चुनें।",
+  "gu": "બેચ શોધવા માટે બેચનો પ્રકાર (જેમ કે Sewing (SST)) પસંદ કરો, અથવા ઇવેન્ટ માટે Event Matrix પસંદ કરો."
+ },
+ "Type the name. Example: **Asha**": {
+  "hi": "नाम लिखें। जैसे: **Asha**",
+  "gu": "નામ લખો. જેમ કે: **Asha**"
+ },
+ "A part of the name, the phone number or the village also works.": {
+  "hi": "नाम का कुछ हिस्सा, फ़ोन नंबर या गाँव लिखने से भी चलता है।",
+  "gu": "નામનો થોડો ભાગ, ફોન નંબર કે ગામ લખવાથી પણ ચાલે."
+ },
+ "Tap **Submit**.": {
+  "hi": "**Submit** पर टैप करें।",
+  "gu": "**Submit** પર ટેપ કરો."
+ },
+ "Tap **Asha Patel** in the results.": {
+  "hi": "नतीजों में **Asha Patel** पर टैप करें।",
+  "gu": "પરિણામમાં **Asha Patel** પર ટેપ કરો."
+ },
+ "This is the person's page: name, age and village at the top. The grey chip below is the batch she is in.": {
+  "hi": "यह व्यक्ति का पेज है: ऊपर नाम, उम्र और गाँव। नीचे की ग्रे पट्टी वह बैच है जिसमें वह है।",
+  "gu": "આ વ્યક્તિનું પેજ છે: ઉપર નામ, ઉંમર અને ગામ. નીચેની ગ્રે પટ્ટી એ બેચ છે જેમાં તે છે."
+ },
+ "**Registration Details**: tap the small arrow to see her registration answers.": {
+  "hi": "**Registration Details**: उसके रजिस्ट्रेशन के जवाब देखने के लिए छोटे तीर पर टैप करें।",
+  "gu": "**Registration Details**: તેના રજિસ્ટ્રેશનના જવાબ જોવા નાના તીર પર ટેપ કરો."
+ },
+ "Lower down are her **Visits Planned** and **Completed Encounters**. **New Form** at the top starts a visit.": {
+  "hi": "नीचे उसकी **Visits Planned** और **Completed Encounters** हैं। ऊपर **New Form** से नई विज़िट शुरू होती है।",
+  "gu": "નીચે તેની **Visits Planned** અને **Completed Encounters** છે. ઉપર **New Form** થી નવી વિઝિટ શરૂ થાય છે."
+ },
+ "Tap **Home** to finish.": {
+  "hi": "ख़त्म करने के लिए **Home** पर टैप करें।",
+  "gu": "પૂરું કરવા **Home** પર ટેપ કરો."
+ },
+ "Register a person": {
+  "hi": "व्यक्ति को रजिस्टर करें",
+  "gu": "વ્યક્તિને રજિસ્ટર કરો"
+ },
+ "Consent first, then contact and education.": {
+  "hi": "पहले सहमति, फिर संपर्क और पढ़ाई।",
+  "gu": "પહેલાં સંમતિ, પછી સંપર્ક અને ભણતર."
+ },
+ "Register tab, Beneficiary": {
+  "hi": "Register टैब, फिर Beneficiary",
+  "gu": "Register ટેબ, પછી Beneficiary"
+ },
+ "Name, age, gender, village": {
+  "hi": "नाम, उम्र, लिंग, गाँव",
+  "gu": "નામ, ઉંમર, લિંગ, ગામ"
+ },
+ "Consent": {
+  "hi": "सहमति",
+  "gu": "સંમતિ"
+ },
+ "Phone number": {
+  "hi": "फ़ोन नंबर",
+  "gu": "ફોન નંબર"
+ },
+ "Education": {
+  "hi": "पढ़ाई",
+  "gu": "ભણતર"
+ },
+ "Check and SAVE": {
+  "hi": "जाँचें और SAVE करें",
+  "gu": "તપાસો અને SAVE કરો"
+ },
+ "No consent, no forms: the person stays registered but cannot be served.": {
+  "hi": "सहमति नहीं, तो फ़ॉर्म नहीं: व्यक्ति रजिस्टर रहता है, पर उसे सेवा नहीं दी जा सकती।",
+  "gu": "સંમતિ નહીં, તો ફોર્મ નહીં: વ્યક્તિ રજિસ્ટર રહે છે, પણ તેને સેવા આપી શકાતી નથી."
+ },
+ "The consent photo is optional.": {
+  "hi": "सहमति की फ़ोटो ज़रूरी नहीं है।",
+  "gu": "સંમતિનો ફોટો ફરજિયાત નથી."
+ },
+ "The app refuses a second record with the same name, village and phone number.": {
+  "hi": "एक ही नाम, गाँव और फ़ोन नंबर वाला दूसरा रिकॉर्ड ऐप नहीं लेता।",
+  "gu": "એક જ નામ, ગામ અને ફોન નંબરવાળો બીજો રેકોર્ડ એપ લેતી નથી."
+ },
+ "Tap **Register** at the bottom.": {
+  "hi": "नीचे **Register** पर टैप करें।",
+  "gu": "નીચે **Register** પર ટેપ કરો."
+ },
+ "Tap **Beneficiary**.": {
+  "hi": "**Beneficiary** पर टैप करें।",
+  "gu": "**Beneficiary** પર ટેપ કરો."
+ },
+ "Write the name as on the person's ID card.": {
+  "hi": "नाम वैसा ही लिखें जैसा व्यक्ति के ID कार्ड पर है।",
+  "gu": "નામ એવું જ લખો જેવું વ્યક્તિના ID કાર્ડ પર છે."
+ },
+ "If the person says No, the app hides every other question and offers no visits for this person.": {
+  "hi": "अगर व्यक्ति No कहे, तो ऐप बाकी सारे सवाल छिपा देता है और इस व्यक्ति के लिए कोई विज़िट नहीं देता।",
+  "gu": "જો વ્યક્તિ No કહે, તો એપ બાકીના બધા સવાલ છુપાવી દે છે અને આ વ્યક્તિ માટે કોઈ વિઝિટ આપતી નથી."
+ },
+ "A 10-digit mobile number starting with 6, 7, 8 or 9.": {
+  "hi": "10 अंकों का मोबाइल नंबर, जो 6, 7, 8 या 9 से शुरू हो।",
+  "gu": "10 આંકડાનો મોબાઇલ નંબર, જે 6, 7, 8 કે 9 થી શરૂ થાય."
+ },
+ "Std (Class) appears only when the education is Primary to Higher Secondary.": {
+  "hi": "Std (कक्षा) तभी दिखता है जब पढ़ाई Primary से Higher Secondary तक हो।",
+  "gu": "Std (ધોરણ) ત્યારે જ દેખાય જ્યારે ભણતર Primary થી Higher Secondary સુધી હોય."
+ },
+ "Consent comes first": {
+  "hi": "सहमति सबसे पहले",
+  "gu": "સંમતિ સૌથી પહેલાં"
+ },
+ "Phone number and duplicate check": {
+  "hi": "फ़ोन नंबर और दोहरे रिकॉर्ड की जाँच",
+  "gu": "ફોન નંબર અને બેવડા રેકોર્ડની તપાસ"
+ },
+ "Class follows education": {
+  "hi": "पढ़ाई के हिसाब से कक्षा",
+  "gu": "ભણતર પ્રમાણે ધોરણ"
+ },
+ "Health camp visit": {
+  "hi": "हेल्थ कैंप विज़िट",
+  "gu": "હેલ્થ કેમ્પ વિઝિટ"
+ },
+ "Record that a person came to the camp.": {
+  "hi": "दर्ज करें कि व्यक्ति कैंप में आया।",
+  "gu": "નોંધો કે વ્યક્તિ કેમ્પમાં આવી."
+ },
+ "New Form, Health Camp": {
+  "hi": "New Form, फिर Health Camp",
+  "gu": "New Form, પછી Health Camp"
+ },
+ "Camp details": {
+  "hi": "कैंप की जानकारी",
+  "gu": "કેમ્પની વિગત"
+ },
+ "SAVE": {
+  "hi": "SAVE",
+  "gu": "SAVE"
+ },
+ "The camp list shows only the camps that fit the person.": {
+  "hi": "कैंप की लिस्ट में सिर्फ़ वही कैंप दिखते हैं जो उस व्यक्ति पर लागू होते हैं।",
+  "gu": "કેમ્પની યાદીમાં ફક્ત એ જ કેમ્પ દેખાય છે જે એ વ્યક્તિને લાગુ પડે."
+ },
+ "The same camp twice on one day is refused.": {
+  "hi": "एक ही दिन में वही कैंप दो बार नहीं लिया जाता।",
+  "gu": "એક જ દિવસે એ જ કેમ્પ બે વાર લેવાતો નથી."
+ },
+ "This is **Amit Patel** from Agasi. He came to today's camp.": {
+  "hi": "ये Agasi के **Amit Patel** हैं। ये आज के कैंप में आए।",
+  "gu": "આ Agasi ના **Amit Patel** છે. તે આજના કેમ્પમાં આવ્યા."
+ },
+ "Tap **New Form**.": {
+  "hi": "**New Form** पर टैप करें।",
+  "gu": "**New Form** પર ટેપ કરો."
+ },
+ "Tap **Health Camp**.": {
+  "hi": "**Health Camp** पर टैप करें।",
+  "gu": "**Health Camp** પર ટેપ કરો."
+ },
+ "Only forms that fit the person appear here. A person without consent gets none.": {
+  "hi": "यहाँ सिर्फ़ वही फ़ॉर्म आते हैं जो व्यक्ति पर लागू हों। बिना सहमति वाले व्यक्ति को कोई फ़ॉर्म नहीं मिलता।",
+  "gu": "અહીં ફક્ત એ જ ફોર્મ આવે છે જે વ્યક્તિને લાગુ પડે. સંમતિ વગરની વ્યક્તિને કોઈ ફોર્મ મળતું નથી."
+ },
+ "Gynec is hidden for men; Pediatric and Bal Health Mela are hidden for adults.": {
+  "hi": "पुरुषों के लिए Gynec छिपा रहता है; बड़ों के लिए Pediatric और Bal Health Mela छिपे रहते हैं।",
+  "gu": "પુરુષો માટે Gynec છુપાયેલું રહે છે; મોટા લોકો માટે Pediatric અને Bal Health Mela છુપાયેલા રહે છે."
+ },
+ "Why the person came: to stay healthy, because of symptoms, or for an old diagnosis.": {
+  "hi": "व्यक्ति क्यों आया: सेहत ठीक रखने के लिए, किसी तकलीफ़ की वजह से, या पुरानी बीमारी के लिए।",
+  "gu": "વ્યક્તિ કેમ આવી: તબિયત સારી રાખવા, કોઈ તકલીફને લીધે, કે જૂની બીમારી માટે."
+ },
+ "Camp types that fit the person": {
+  "hi": "व्यक्ति के हिसाब से कैंप के टाइप",
+  "gu": "વ્યક્તિ પ્રમાણે કેમ્પના પ્રકાર"
+ },
+ "Screening and follow-up": {
+  "hi": "स्क्रीनिंग और फ़ॉलो-अप",
+  "gu": "સ્ક્રીનિંગ અને ફોલો-અપ"
+ },
+ "What was checked and found; the app plans the follow-up.": {
+  "hi": "क्या जाँचा और क्या मिला; फ़ॉलो-अप ऐप ख़ुद प्लान करता है।",
+  "gu": "શું તપાસ્યું અને શું મળ્યું; ફોલો-અપ એપ જાતે પ્લાન કરે છે."
+ },
+ "New Form, Screening": {
+  "hi": "New Form, फिर Screening",
+  "gu": "New Form, પછી Screening"
+ },
+ "Choose what was screened": {
+  "hi": "चुनें कि किसकी स्क्रीनिंग हुई",
+  "gu": "પસંદ કરો કે શેનું સ્ક્રીનિંગ થયું"
+ },
+ "Findings and referral": {
+  "hi": "जाँच का नतीजा और रेफ़रल",
+  "gu": "તપાસનું પરિણામ અને રેફરલ"
+ },
+ "Follow-up needed?": {
+  "hi": "फ़ॉलो-अप चाहिए?",
+  "gu": "ફોલો-અપ જોઈએ?"
+ },
+ "The app plans the Health follow-up": {
+  "hi": "ऐप हेल्थ फ़ॉलो-अप प्लान करता है",
+  "gu": "એપ હેલ્થ ફોલો-અપ પ્લાન કરે છે"
+ },
+ "Answer **Follow-up needed** carefully: Yes plans a visit for you.": {
+  "hi": "**Follow-up needed** का जवाब ध्यान से दें: Yes चुनने पर आपके लिए एक विज़िट प्लान हो जाती है।",
+  "gu": "**Follow-up needed** નો જવાબ ધ્યાનથી આપો: Yes પસંદ કરો તો તમારા માટે એક વિઝિટ પ્લાન થઈ જાય છે."
+ },
+ "Tap **Screening**.": {
+  "hi": "**Screening** पर टैप करें।",
+  "gu": "**Screening** પર ટેપ કરો."
+ },
+ "Only the page for the chosen screening opens next.": {
+  "hi": "आगे सिर्फ़ चुनी हुई स्क्रीनिंग का पेज खुलता है।",
+  "gu": "આગળ ફક્ત પસંદ કરેલા સ્ક્રીનિંગનું પેજ ખૂલે છે."
+ },
+ "Yes plans a Health Follow-up 30 days later, due for 15 days.": {
+  "hi": "Yes चुनने पर 30 दिन बाद एक हेल्थ फ़ॉलो-अप प्लान होता है, जिसे 15 दिन के अंदर करना है।",
+  "gu": "Yes પસંદ કરો તો 30 દિવસ પછી એક હેલ્થ ફોલો-અપ પ્લાન થાય છે, જે 15 દિવસની અંદર કરવાનું છે."
+ },
+ "Follow-up planned by the app": {
+  "hi": "ऐप ने फ़ॉलो-अप प्लान किया",
+  "gu": "એપે ફોલો-અપ પ્લાન કર્યું"
+ },
+ "The app planned a **Health Follow-up**. It will appear on Home under **Due now** when its day comes.": {
+  "hi": "ऐप ने एक **Health Follow-up** प्लान किया है। उसका दिन आने पर यह Home पर **Due now** में दिखेगा।",
+  "gu": "એપે એક **Health Follow-up** પ્લાન કર્યું છે. તેનો દિવસ આવશે ત્યારે તે Home પર **Due now** માં દેખાશે."
+ },
+ "You did not create this visit. The app made it from your answer.": {
+  "hi": "यह विज़िट आपने नहीं बनाई। ऐप ने आपके जवाब से इसे बनाया।",
+  "gu": "આ વિઝિટ તમે નથી બનાવી. એપે તમારા જવાબ પરથી તે બનાવી."
+ },
+ "Health follow-up": {
+  "hi": "हेल्थ फ़ॉलो-अप",
+  "gu": "હેલ્થ ફોલો-અપ"
+ },
+ "Fill a follow-up that is due.": {
+  "hi": "जो फ़ॉलो-अप करना है, उसे भरें।",
+  "gu": "જે ફોલો-અપ કરવાનું છે, તે ભરો."
+ },
+ "Home, Health follow-ups due": {
+  "hi": "Home, फिर Health follow-ups due",
+  "gu": "Home, પછી Health follow-ups due"
+ },
+ "Do the planned visit": {
+  "hi": "प्लान की हुई विज़िट करें",
+  "gu": "પ્લાન કરેલી વિઝિટ કરો"
+ },
+ "SAVE: the next one is planned": {
+  "hi": "SAVE: अगला फ़ॉलो-अप प्लान हो जाता है",
+  "gu": "SAVE: આગળનું ફોલો-અપ પ્લાન થઈ જાય છે"
+ },
+ "Follow-ups repeat by themselves, up to 4.": {
+  "hi": "फ़ॉलो-अप अपने आप दोहराए जाते हैं, 4 बार तक।",
+  "gu": "ફોલો-અપ જાતે જ ફરી ફરી આવે છે, 4 વાર સુધી."
+ },
+ "If the person moved away, died or refused, cancel the visit: the series stops.": {
+  "hi": "अगर व्यक्ति कहीं और चला गया, गुज़र गया या मना कर दिया, तो विज़िट कैंसल करें: सिलसिला रुक जाता है।",
+  "gu": "જો વ્યક્તિ બીજે જતી રહી, ગુજરી ગઈ કે ના પાડી, તો વિઝિટ કેન્સલ કરો: સિલસિલો અટકી જાય છે."
+ },
+ "Tap the **Health follow-ups due** card.": {
+  "hi": "**Health follow-ups due** कार्ड पर टैप करें।",
+  "gu": "**Health follow-ups due** કાર્ડ પર ટેપ કરો."
+ },
+ "Tap **Hansa Dhodia**.": {
+  "hi": "**Hansa Dhodia** पर टैप करें।",
+  "gu": "**Hansa Dhodia** પર ટેપ કરો."
+ },
+ "Next to **Health Follow-up**, tap **Do**.": {
+  "hi": "**Health Follow-up** के आगे **Do** पर टैप करें।",
+  "gu": "**Health Follow-up** ની બાજુમાં **Do** પર ટેપ કરો."
+ },
+ "The next question changes with this answer: treatment, referral or normal.": {
+  "hi": "इस जवाब से अगला सवाल बदलता है: इलाज, रेफ़रल या नॉर्मल।",
+  "gu": "આ જવાબથી આગળનો સવાલ બદલાય છે: સારવાર, રેફરલ કે નોર્મલ."
+ },
+ "Saved. The app planned the next **Health Follow-up**, a month later. The series stops after 4 follow-ups.": {
+  "hi": "सेव हो गया। ऐप ने एक महीने बाद का अगला **Health Follow-up** प्लान कर दिया। 4 फ़ॉलो-अप के बाद सिलसिला रुक जाता है।",
+  "gu": "સેવ થઈ ગયું. એપે એક મહિના પછીનું આગળનું **Health Follow-up** પ્લાન કરી દીધું. 4 ફોલો-અપ પછી સિલસિલો અટકી જાય છે."
+ },
+ "Follow-up chains": {
+  "hi": "फ़ॉलो-अप का सिलसिला",
+  "gu": "ફોલો-અપનો સિલસિલો"
+ },
+ "Cancel a visit": {
+  "hi": "विज़िट कैंसल करें",
+  "gu": "વિઝિટ કેન્સલ કરો"
+ },
+ "When a person cannot be met: the reason stops the series.": {
+  "hi": "जब व्यक्ति से मिलना न हो सके: कारण से सिलसिला रुक जाता है।",
+  "gu": "જ્યારે વ્યક્તિને મળી ન શકાય: કારણથી સિલસિલો અટકી જાય છે."
+ },
+ "Cancel the planned visit": {
+  "hi": "प्लान की हुई विज़िट कैंसल करें",
+  "gu": "પ્લાન કરેલી વિઝિટ કેન્સલ કરો"
+ },
+ "Choose the reason": {
+  "hi": "कारण चुनें",
+  "gu": "કારણ પસંદ કરો"
+ },
+ "Never leave a visit overdue for a person you cannot meet. Cancel it with a reason.": {
+  "hi": "जिस व्यक्ति से आप मिल नहीं सकते, उसकी विज़िट कभी देर में पड़ी न छोड़ें। कारण के साथ उसे कैंसल करें।",
+  "gu": "જે વ્યક્તિને તમે મળી શકો એમ નથી, તેની વિઝિટ ક્યારેય મોડી પડેલી ન છોડો. કારણ સાથે તેને કેન્સલ કરો."
+ },
+ "**Geeta Tandel** has moved to another town. Her follow-up is **Overdue**.": {
+  "hi": "**Geeta Tandel** दूसरे शहर चली गई हैं। उनका फ़ॉलो-अप **Overdue** है।",
+  "gu": "**Geeta Tandel** બીજા શહેરમાં જતાં રહ્યાં છે. તેમનું ફોલો-અપ **Overdue** છે."
+ },
+ "Tap **Cancel** next to the visit.": {
+  "hi": "विज़िट के आगे **Cancel** पर टैप करें।",
+  "gu": "વિઝિટની બાજુમાં **Cancel** પર ટેપ કરો."
+ },
+ "Moved away, died or refused end the series. Other reasons plan the next follow-up.": {
+  "hi": "कहीं और चले जाना, गुज़र जाना या मना करना, इनसे सिलसिला ख़त्म हो जाता है। बाकी कारणों पर अगला फ़ॉलो-अप प्लान होता है।",
+  "gu": "બીજે જતા રહેવું, ગુજરી જવું કે ના પાડવી, આનાથી સિલસિલો પૂરો થાય છે. બાકીનાં કારણોમાં આગળનું ફોલો-અપ પ્લાન થાય છે."
+ },
+ "Create a batch": {
+  "hi": "बैच बनाएँ",
+  "gu": "બેચ બનાવો"
+ },
+ "The app names the batch and works out the last class day.": {
+  "hi": "ऐप बैच का नाम रखता है और आख़िरी क्लास का दिन निकाल देता है।",
+  "gu": "એપ બેચનું નામ રાખે છે અને છેલ્લા ક્લાસનો દિવસ ગણી આપે છે."
+ },
+ "Register tab, the course": {
+  "hi": "Register टैब, फिर कोर्स",
+  "gu": "Register ટેબ, પછી કોર્સ"
+ },
+ "Type the place; the app adds course and month": {
+  "hi": "जगह का नाम लिखें; कोर्स और महीना ऐप जोड़ता है",
+  "gu": "જગ્યાનું નામ લખો; કોર્સ અને મહિનો એપ ઉમેરે છે"
+ },
+ "Start date and last class day": {
+  "hi": "शुरू की तारीख और आख़िरी क्लास का दिन",
+  "gu": "શરૂઆતની તારીખ અને છેલ્લા ક્લાસનો દિવસ"
+ },
+ "Course and month are added to the name by the app.": {
+  "hi": "कोर्स और महीना नाम में ऐप ख़ुद जोड़ता है।",
+  "gu": "કોર્સ અને મહિનો નામમાં એપ જાતે ઉમેરે છે."
+ },
+ "After the last class day (plus 3 days), the batch refuses new students.": {
+  "hi": "आख़िरी क्लास के दिन (और उसके 3 दिन) के बाद बैच नए विद्यार्थी नहीं लेता।",
+  "gu": "છેલ્લા ક્લાસના દિવસ (અને તેના પછીના 3 દિવસ) પછી બેચ નવા વિદ્યાર્થી લેતો નથી."
+ },
+ "Tap **Register**.": {
+  "hi": "**Register** पर टैप करें।",
+  "gu": "**Register** પર ટેપ કરો."
+ },
+ "Tap **Sewing (SST)**.": {
+  "hi": "**Sewing (SST)** पर टैप करें।",
+  "gu": "**Sewing (SST)** પર ટેપ કરો."
+ },
+ "Each course is its own type, so attendance and reports stay per course.": {
+  "hi": "हर कोर्स का अपना अलग टाइप है, ताकि हाज़िरी और रिपोर्ट कोर्स के हिसाब से अलग रहें।",
+  "gu": "દરેક કોર્સનો પોતાનો અલગ પ્રકાર છે, જેથી હાજરી અને રિપોર્ટ કોર્સ પ્રમાણે અલગ રહે."
+ },
+ "Check the name and dates, then tap **SAVE**.": {
+  "hi": "नाम और तारीखें जाँचें, फिर **SAVE** पर टैप करें।",
+  "gu": "નામ અને તારીખો તપાસો, પછી **SAVE** પર ટેપ કરો."
+ },
+ "The app already wrote the course and month. Only add the village or a short label after it.": {
+  "hi": "कोर्स और महीना ऐप पहले ही लिख चुका है। उसके बाद सिर्फ़ गाँव या छोटा-सा नाम जोड़ें।",
+  "gu": "કોર્સ અને મહિનો એપે પહેલેથી લખી દીધાં છે. તેના પછી ફક્ત ગામ કે નાનું નામ ઉમેરો."
+ },
+ "Today by default. Change it if the batch started earlier.": {
+  "hi": "अपने आप आज की तारीख आती है। अगर बैच पहले शुरू हुआ था, तो बदल दें।",
+  "gu": "જાતે જ આજની તારીખ આવે છે. જો બેચ પહેલાં શરૂ થયો હોય, તો બદલી દો."
+ },
+ "Worked out from the course length, counting Monday to Saturday.": {
+  "hi": "कोर्स की लंबाई से निकाला जाता है, सोमवार से शनिवार गिनकर।",
+  "gu": "કોર્સની લંબાઈ પરથી ગણાય છે, સોમવારથી શનિવાર ગણીને."
+ },
+ "Batch dates": {
+  "hi": "बैच की तारीखें",
+  "gu": "બેચની તારીખો"
+ },
+ "Batch names fill themselves": {
+  "hi": "बैच का नाम अपने आप भरता है",
+  "gu": "બેચનું નામ જાતે ભરાય છે"
+ },
+ "The batch is saved: the name has the course, the month and **Kevdi**. Next, add the students.": {
+  "hi": "बैच सेव हो गया: नाम में कोर्स, महीना और **Kevdi** है। अब विद्यार्थी जोड़ें।",
+  "gu": "બેચ સેવ થઈ ગયો: નામમાં કોર્સ, મહિનો અને **Kevdi** છે. હવે વિદ્યાર્થી ઉમેરો."
+ },
+ "Add a student to a batch": {
+  "hi": "बैच में विद्यार्थी जोड़ें",
+  "gu": "બેચમાં વિદ્યાર્થી ઉમેરો"
+ },
+ "Pick a registered person; the app checks the rules.": {
+  "hi": "रजिस्टर किया हुआ व्यक्ति चुनें; ऐप नियम जाँचता है।",
+  "gu": "રજિસ્ટર કરેલી વ્યક્તિ પસંદ કરો; એપ નિયમ તપાસે છે."
+ },
+ "Open the batch": {
+  "hi": "बैच खोलें",
+  "gu": "બેચ ખોલો"
+ },
+ "Add Member": {
+  "hi": "Add Member",
+  "gu": "Add Member"
+ },
+ "Search the person": {
+  "hi": "व्यक्ति को खोजें",
+  "gu": "વ્યક્તિને શોધો"
+ },
+ "Save: the app checks consent, age and dates": {
+  "hi": "सेव करें: ऐप सहमति, उम्र और तारीखें जाँचता है",
+  "gu": "સેવ કરો: એપ સંમતિ, ઉંમર અને તારીખો તપાસે છે"
+ },
+ "A student can be in more than one batch.": {
+  "hi": "एक विद्यार्थी एक से ज़्यादा बैच में हो सकता है।",
+  "gu": "એક વિદ્યાર્થી એકથી વધુ બેચમાં હોઈ શકે."
+ },
+ "Students joining late are allowed only up to 3 days after the last class day.": {
+  "hi": "देर से आने वाले विद्यार्थी आख़िरी क्लास के दिन के 3 दिन बाद तक ही जुड़ सकते हैं।",
+  "gu": "મોડા આવનાર વિદ્યાર્થી છેલ્લા ક્લાસના દિવસ પછી 3 દિવસ સુધી જ જોડાઈ શકે."
+ },
+ "This is the Sewing batch in Agasi with its students.": {
+  "hi": "यह Agasi का सिलाई बैच है, अपने विद्यार्थियों के साथ।",
+  "gu": "આ Agasi નો સિલાઈ બેચ છે, તેના વિદ્યાર્થીઓ સાથે."
+ },
+ "Tap **Add Member**.": {
+  "hi": "**Add Member** पर टैप करें।",
+  "gu": "**Add Member** પર ટેપ કરો."
+ },
+ "For **Role**, tap **Member**. The start date is today; change it if she joined earlier.": {
+  "hi": "**Role** में **Member** पर टैप करें। शुरू की तारीख आज की है; अगर वह पहले जुड़ी थी तो बदल दें।",
+  "gu": "**Role** માં **Member** પર ટેપ કરો. શરૂઆતની તારીખ આજની છે; જો તે પહેલાં જોડાઈ હોય તો બદલી દો."
+ },
+ "Tap **Search existing Beneficiary**.": {
+  "hi": "**Search existing Beneficiary** पर टैप करें।",
+  "gu": "**Search existing Beneficiary** પર ટેપ કરો."
+ },
+ "Register the person first if she is new.": {
+  "hi": "अगर वह नई है, तो पहले उसे रजिस्टर करें।",
+  "gu": "જો તે નવી હોય, તો પહેલાં તેને રજિસ્ટર કરો."
+ },
+ "Tap **Priya Thakre**.": {
+  "hi": "**Priya Thakre** पर टैप करें।",
+  "gu": "**Priya Thakre** પર ટેપ કરો."
+ },
+ "Tap **SAVE**.": {
+  "hi": "**SAVE** पर टैप करें।",
+  "gu": "**SAVE** પર ટેપ કરો."
+ },
+ "The app refuses people without consent, people under 15 for livelihood courses, and batches that ended.": {
+  "hi": "ऐप इन्हें नहीं लेता: बिना सहमति वाले लोग, रोज़गार वाले कोर्स में 15 साल से कम उम्र के लोग, और ख़त्म हो चुके बैच।",
+  "gu": "એપ આમને લેતી નથી: સંમતિ વગરના લોકો, રોજગારના કોર્સમાં 15 વર્ષથી નાના લોકો, અને પૂરા થઈ ગયેલા બેચ."
+ },
+ "Batch joining rules": {
+  "hi": "बैच में जुड़ने के नियम",
+  "gu": "બેચમાં જોડાવાના નિયમ"
+ },
+ "Priya is now in the batch. She will be on the attendance roster from today.": {
+  "hi": "Priya अब बैच में है। आज से वह हाज़िरी की लिस्ट में दिखेगी।",
+  "gu": "Priya હવે બેચમાં છે. આજથી તે હાજરીની યાદીમાં દેખાશે."
+ },
+ "Mark attendance": {
+  "hi": "हाज़िरी लगाएँ",
+  "gu": "હાજરી પૂરો"
+ },
+ "Today's class: present, absent and the reason.": {
+  "hi": "आज की क्लास: हाज़िर, ग़ैरहाज़िर और कारण।",
+  "gu": "આજનો ક્લાસ: હાજર, ગેરહાજર અને કારણ."
+ },
+ "Home, Classes to mark today": {
+  "hi": "Home, फिर Classes to mark today",
+  "gu": "Home, પછી Classes to mark today"
+ },
+ "Attendance: pick the day": {
+  "hi": "Attendance: दिन चुनें",
+  "gu": "Attendance: દિવસ પસંદ કરો"
+ },
+ "Tap absent students, choose the reason": {
+  "hi": "ग़ैरहाज़िर विद्यार्थियों पर टैप करें, कारण चुनें",
+  "gu": "ગેરહાજર વિદ્યાર્થીઓ પર ટેપ કરો, કારણ પસંદ કરો"
+ },
+ "Save attendance": {
+  "hi": "हाज़िरी सेव करें",
+  "gu": "હાજરી સેવ કરો"
+ },
+ "Mark attendance on the day of the class.": {
+  "hi": "हाज़िरी क्लास वाले दिन ही लगाएँ।",
+  "gu": "હાજરી ક્લાસના દિવસે જ પૂરો."
+ },
+ "Choose a reason for each absent student: it shows in the reports.": {
+  "hi": "हर ग़ैरहाज़िर विद्यार्थी का कारण चुनें: यह रिपोर्ट में दिखता है।",
+  "gu": "દરેક ગેરહાજર વિદ્યાર્થીનું કારણ પસંદ કરો: તે રિપોર્ટમાં દેખાય છે."
+ },
+ "Tap the **Classes to mark today** card.": {
+  "hi": "**Classes to mark today** कार्ड पर टैप करें।",
+  "gu": "**Classes to mark today** કાર્ડ પર ટેપ કરો."
+ },
+ "Only Sewing, Computer, Beautician and Summer Camp take attendance.": {
+  "hi": "सिर्फ़ सिलाई, कंप्यूटर, ब्यूटीशियन और समर कैंप में हाज़िरी लगती है।",
+  "gu": "ફક્ત સિલાઈ, કમ્પ્યુટર, બ્યુટીશિયન અને સમર કેમ્પમાં હાજરી પુરાય છે."
+ },
+ "Tap the **Sewing (SST)** batch.": {
+  "hi": "**Sewing (SST)** बैच पर टैप करें।",
+  "gu": "**Sewing (SST)** બેચ પર ટેપ કરો."
+ },
+ "Tap the **Attendance** card.": {
+  "hi": "**Attendance** कार्ड पर टैप करें।",
+  "gu": "**Attendance** કાર્ડ પર ટેપ કરો."
+ },
+ "Avni Attendance": {
+  "hi": "Avni Attendance",
+  "gu": "Avni Attendance"
+ },
+ "The strip shows the last 14 days. Today is selected. A dot under a day means that class is marked.": {
+  "hi": "पट्टी में पिछले 14 दिन दिखते हैं। आज का दिन चुना हुआ है। किसी दिन के नीचे बिंदी का मतलब है कि उस क्लास की हाज़िरी लग चुकी है।",
+  "gu": "પટ્ટીમાં છેલ્લા 14 દિવસ દેખાય છે. આજનો દિવસ પસંદ કરેલો છે. કોઈ દિવસ નીચે ટપકું એટલે તે ક્લાસની હાજરી પુરાઈ ગઈ છે."
+ },
+ "Tap **Mark attendance**.": {
+  "hi": "**Mark attendance** पर टैप करें।",
+  "gu": "**Mark attendance** પર ટેપ કરો."
+ },
+ "Everyone starts as **Present**. Tap a student's row to make them **Absent**.": {
+  "hi": "शुरू में सब **Present** होते हैं। किसी विद्यार्थी को **Absent** करने के लिए उसकी लाइन पर टैप करें।",
+  "gu": "શરૂઆતમાં બધા **Present** હોય છે. કોઈ વિદ્યાર્થીને **Absent** કરવા તેની લાઇન પર ટેપ કરો."
+ },
+ "Daksha did not come. Tap her row, **Daksha Desai**.": {
+  "hi": "Daksha नहीं आई। उसकी लाइन **Daksha Desai** पर टैप करें।",
+  "gu": "Daksha આવી નથી. તેની લાઇન **Daksha Desai** પર ટેપ કરો."
+ },
+ "Under **Reason for absence**, tap **Sick**.": {
+  "hi": "**Reason for absence** के नीचे **Sick** पर टैप करें।",
+  "gu": "**Reason for absence** નીચે **Sick** પર ટેપ કરો."
+ },
+ "Scroll down and tap **Save attendance**.": {
+  "hi": "नीचे स्क्रॉल करें और **Save attendance** पर टैप करें।",
+  "gu": "નીચે સ્ક્રોલ કરો અને **Save attendance** પર ટેપ કરો."
+ },
+ "Back on the sheet: **✓ 5 of 6 present**. Today now has a dot in the strip, and the card on Home goes down by one.": {
+  "hi": "वापस शीट पर: **✓ 5 of 6 present**। अब पट्टी में आज के नीचे बिंदी है, और Home पर कार्ड का नंबर एक कम हो गया।",
+  "gu": "પાછા શીટ પર: **✓ 5 of 6 present**. હવે પટ્ટીમાં આજના દિવસ નીચે ટપકું છે, અને Home પર કાર્ડનો નંબર એક ઓછો થયો."
+ },
+ "Class did not happen": {
+  "hi": "क्लास नहीं हुई",
+  "gu": "ક્લાસ ન થયો"
+ },
+ "Holiday or trainer away: record it so it is not counted as missed.": {
+  "hi": "छुट्टी हो या ट्रेनर न आए: इसे दर्ज करें, ताकि यह छूटी हुई हाज़िरी न गिनी जाए।",
+  "gu": "રજા હોય કે ટ્રેનર ન આવે: તે નોંધો, જેથી તે બાકી હાજરીમાં ન ગણાય."
+ },
+ "Open the batch, Attendance": {
+  "hi": "बैच खोलें, फिर Attendance",
+  "gu": "બેચ ખોલો, પછી Attendance"
+ },
+ "Pick the day": {
+  "hi": "दिन चुनें",
+  "gu": "દિવસ પસંદ કરો"
+ },
+ "Didn't happen, with the reason": {
+  "hi": "Didn't happen, कारण के साथ",
+  "gu": "Didn't happen, કારણ સાથે"
+ },
+ "A class that did not happen is still recorded, with the reason.": {
+  "hi": "जो क्लास नहीं हुई, वह भी कारण के साथ दर्ज होती है।",
+  "gu": "જે ક્લાસ ન થયો, તે પણ કારણ સાથે નોંધાય છે."
+ },
+ "The last class day has no dot. Tap it in the date strip.": {
+  "hi": "आख़िरी क्लास वाले दिन के नीचे बिंदी नहीं है। तारीख की पट्टी में उस पर टैप करें।",
+  "gu": "છેલ્લા ક્લાસના દિવસ નીચે ટપકું નથી. તારીખની પટ્ટીમાં તેના પર ટેપ કરો."
+ },
+ "The trainer was away. Tap **Didn't happen**.": {
+  "hi": "ट्रेनर नहीं आए थे। **Didn't happen** पर टैप करें।",
+  "gu": "ટ્રેનર આવ્યા ન હતા. **Didn't happen** પર ટેપ કરો."
+ },
+ "Tap **Select reason**.": {
+  "hi": "**Select reason** पर टैप करें।",
+  "gu": "**Select reason** પર ટેપ કરો."
+ },
+ "Tap **Trainer not available**.": {
+  "hi": "**Trainer not available** पर टैप करें।",
+  "gu": "**Trainer not available** પર ટેપ કરો."
+ },
+ "The day now reads **⊘ Didn't happen · Trainer not available**, with a grey dot in the strip. It is no longer counted as a class not marked.": {
+  "hi": "अब उस दिन लिखा है **⊘ Didn't happen · Trainer not available**, और पट्टी में ग्रे बिंदी है। अब इसे बिना हाज़िरी वाली क्लास में नहीं गिना जाता।",
+  "gu": "હવે તે દિવસે લખેલું છે **⊘ Didn't happen · Trainer not available**, અને પટ્ટીમાં ગ્રે ટપકું છે. હવે તે હાજરી વગરના ક્લાસમાં ગણાતો નથી."
+ },
+ "Baseline (pre-test)": {
+  "hi": "बेसलाइन (प्री-टेस्ट)",
+  "gu": "બેઝલાઇન (પ્રી-ટેસ્ટ)"
+ },
+ "The starting score of a student.": {
+  "hi": "विद्यार्थी का शुरुआती स्कोर।",
+  "gu": "વિદ્યાર્થીનો શરૂઆતનો સ્કોર."
+ },
+ "Home, Baselines due": {
+  "hi": "Home, फिर Baselines due",
+  "gu": "Home, પછી Baselines due"
+ },
+ "Open the student": {
+  "hi": "विद्यार्थी को खोलें",
+  "gu": "વિદ્યાર્થીને ખોલો"
+ },
+ "Do the Baseline": {
+  "hi": "बेसलाइन करें",
+  "gu": "બેઝલાઇન કરો"
+ },
+ "Do the Baseline in the first days of the course.": {
+  "hi": "बेसलाइन कोर्स के पहले कुछ दिनों में ही करें।",
+  "gu": "બેઝલાઇન કોર્સના પહેલા થોડા દિવસોમાં જ કરો."
+ },
+ "Tap the **Baselines due** card.": {
+  "hi": "**Baselines due** कार्ड पर टैप करें।",
+  "gu": "**Baselines due** કાર્ડ પર ટેપ કરો."
+ },
+ "Tap **Bhavna Naik**.": {
+  "hi": "**Bhavna Naik** पर टैप करें।",
+  "gu": "**Bhavna Naik** પર ટેપ કરો."
+ },
+ "Next to **Baseline / Pre-test**, tap **Do**.": {
+  "hi": "**Baseline / Pre-test** के आगे **Do** पर टैप करें।",
+  "gu": "**Baseline / Pre-test** ની બાજુમાં **Do** પર ટેપ કરો."
+ },
+ "Out of 100. The Endline compares with this score.": {
+  "hi": "100 में से। एंडलाइन का स्कोर इसी से मिलाया जाता है।",
+  "gu": "100 માંથી. એન્ડલાઇનનો સ્કોર આની સાથે સરખાવાય છે."
+ },
+ "Endline and the year of follow-ups": {
+  "hi": "एंडलाइन और साल भर के फ़ॉलो-अप",
+  "gu": "એન્ડલાઇન અને આખા વર્ષનાં ફોલો-અપ"
+ },
+ "Final score, outcome; the app plans monthly follow-ups.": {
+  "hi": "आख़िरी स्कोर, नतीजा; ऐप हर महीने के फ़ॉलो-अप प्लान करता है।",
+  "gu": "છેલ્લો સ્કોર, પરિણામ; એપ દર મહિનાનાં ફોલો-અપ પ્લાન કરે છે."
+ },
+ "Home, Endlines due": {
+  "hi": "Home, फिर Endlines due",
+  "gu": "Home, પછી Endlines due"
+ },
+ "Do the Endline": {
+  "hi": "एंडलाइन करें",
+  "gu": "એન્ડલાઇન કરો"
+ },
+ "The app carries the pre-test and works out the change": {
+  "hi": "ऐप प्री-टेस्ट का स्कोर ले आता है और बदलाव निकाल देता है",
+  "gu": "એપ પ્રી-ટેસ્ટનો સ્કોર લાવે છે અને ફેરફાર ગણી આપે છે"
+ },
+ "Outcome Completed: monthly follow-ups are planned": {
+  "hi": "नतीजा Completed: हर महीने के फ़ॉलो-अप प्लान हो जाते हैं",
+  "gu": "પરિણામ Completed: દર મહિનાનાં ફોલો-અપ પ્લાન થઈ જાય છે"
+ },
+ "Choose the outcome carefully: only Completed starts the follow-ups.": {
+  "hi": "नतीजा ध्यान से चुनें: सिर्फ़ Completed से ही फ़ॉलो-अप शुरू होते हैं।",
+  "gu": "પરિણામ ધ્યાનથી પસંદ કરો: ફક્ત Completed થી જ ફોલો-અપ શરૂ થાય છે."
+ },
+ "Tap the **Endlines due** card.": {
+  "hi": "**Endlines due** कार्ड पर टैप करें।",
+  "gu": "**Endlines due** કાર્ડ પર ટેપ કરો."
+ },
+ "Tap **Rakesh Gamit**.": {
+  "hi": "**Rakesh Gamit** पर टैप करें।",
+  "gu": "**Rakesh Gamit** પર ટેપ કરો."
+ },
+ "Next to **Endline / Post-test**, tap **Do**.": {
+  "hi": "**Endline / Post-test** के आगे **Do** पर टैप करें।",
+  "gu": "**Endline / Post-test** ની બાજુમાં **Do** પર ટેપ કરો."
+ },
+ "The app fills the pre-test score from the Baseline and shows the change.": {
+  "hi": "ऐप बेसलाइन से प्री-टेस्ट का स्कोर भर देता है और बदलाव दिखाता है।",
+  "gu": "એપ બેઝલાઇનમાંથી પ્રી-ટેસ્ટનો સ્કોર ભરી દે છે અને ફેરફાર બતાવે છે."
+ },
+ "Completed plans a Livelihood Follow-up every month for a year.": {
+  "hi": "Completed चुनने पर साल भर, हर महीने एक लाइवलीहुड फ़ॉलो-अप प्लान होता है।",
+  "gu": "Completed પસંદ કરો તો આખું વર્ષ, દર મહિને એક લાઇવલીહુડ ફોલો-અપ પ્લાન થાય છે."
+ },
+ "Score change worked out": {
+  "hi": "स्कोर का बदलाव अपने आप निकला",
+  "gu": "સ્કોરનો ફેરફાર જાતે ગણાયો"
+ },
+ "The first **Livelihood Follow-up** is planned for next month.": {
+  "hi": "पहला **Livelihood Follow-up** अगले महीने के लिए प्लान हो गया है।",
+  "gu": "પહેલું **Livelihood Follow-up** આવતા મહિના માટે પ્લાન થઈ ગયું છે."
+ },
+ "Livelihood follow-up": {
+  "hi": "लाइवलीहुड फ़ॉलो-अप",
+  "gu": "લાઇવલીહુડ ફોલો-અપ"
+ },
+ "After the course: is the skill earning?": {
+  "hi": "कोर्स के बाद: क्या हुनर से कमाई हो रही है?",
+  "gu": "કોર્સ પછી: શું આવડતથી કમાણી થાય છે?"
+ },
+ "Do the follow-up": {
+  "hi": "फ़ॉलो-अप करें",
+  "gu": "ફોલો-અપ કરો"
+ },
+ "Work and income": {
+  "hi": "काम और कमाई",
+  "gu": "કામ અને કમાણી"
+ },
+ "SAVE: next month is planned": {
+  "hi": "SAVE: अगले महीने का प्लान हो जाता है",
+  "gu": "SAVE: આવતા મહિનાનું પ્લાન થઈ જાય છે"
+ },
+ "Ask about the last month only.": {
+  "hi": "सिर्फ़ पिछले महीने के बारे में पूछें।",
+  "gu": "ફક્ત છેલ્લા મહિના વિશે પૂછો."
+ },
+ "Next to **Livelihood Follow-up**, tap **Do**.": {
+  "hi": "**Livelihood Follow-up** के आगे **Do** पर टैप करें।",
+  "gu": "**Livelihood Follow-up** ની બાજુમાં **Do** પર ટેપ કરો."
+ },
+ "The questions about the enterprise appear only for work related to the training.": {
+  "hi": "धंधे वाले सवाल तभी आते हैं जब काम ट्रेनिंग से जुड़ा हो।",
+  "gu": "ધંધાના સવાલ ત્યારે જ આવે છે જ્યારે કામ ટ્રેનિંગ સાથે જોડાયેલું હોય."
+ },
+ "Record an Event Matrix": {
+  "hi": "Event Matrix भरें",
+  "gu": "Event Matrix ભરો"
+ },
+ "People reached, money, volunteers; the app does the totals.": {
+  "hi": "कितने लोगों तक पहुँचे, पैसा, वॉलंटियर; जोड़ ऐप करता है।",
+  "gu": "કેટલા લોકો સુધી પહોંચ્યા, પૈસા, વોલન્ટિયર; સરવાળો એપ કરે છે."
+ },
+ "Register tab, Event Matrix": {
+  "hi": "Register टैब, फिर Event Matrix",
+  "gu": "Register ટેબ, પછી Event Matrix"
+ },
+ "The name fills itself": {
+  "hi": "नाम अपने आप भरता है",
+  "gu": "નામ જાતે ભરાય છે"
+ },
+ "Event details": {
+  "hi": "इवेंट की जानकारी",
+  "gu": "ઇવેન્ટની વિગત"
+ },
+ "Impact: totals and indirect people": {
+  "hi": "असर: कुल लोग और अप्रत्यक्ष लोग",
+  "gu": "અસર: કુલ લોકો અને આડકતરા લોકો"
+ },
+ "Money: rupees to dollars": {
+  "hi": "पैसा: रुपये से डॉलर",
+  "gu": "પૈસા: રૂપિયાથી ડોલર"
+ },
+ "Draft or Submitted": {
+  "hi": "Draft या Submitted",
+  "gu": "Draft કે Submitted"
+ },
+ "You type the people and the rupees; the app adds up and converts.": {
+  "hi": "आप लोग और रुपये लिखते हैं; जोड़ना और बदलना ऐप करता है।",
+  "gu": "તમે લોકો અને રૂપિયા લખો છો; સરવાળો અને ડોલરમાં ફેરવવાનું એપ કરે છે."
+ },
+ "Submit only when the numbers are final.": {
+  "hi": "Submit तभी करें जब नंबर पक्के हों।",
+  "gu": "Submit ત્યારે જ કરો જ્યારે આંકડા પાકા હોય."
+ },
+ "Tap **Event Matrix**.": {
+  "hi": "**Event Matrix** पर टैप करें।",
+  "gu": "**Event Matrix** પર ટેપ કરો."
+ },
+ "Check the totals, then tap **SAVE**.": {
+  "hi": "कुल जोड़ जाँचें, फिर **SAVE** पर टैप करें।",
+  "gu": "કુલ સરવાળો તપાસો, પછી **SAVE** પર ટેપ કરો."
+ },
+ "Leave the name: the app names the event from the programme and the date.": {
+  "hi": "नाम को रहने दें: ऐप प्रोग्राम और तारीख से इवेंट का नाम रखता है।",
+  "gu": "નામ રહેવા દો: એપ પ્રોગ્રામ અને તારીખ પરથી ઇવેન્ટનું નામ રાખે છે."
+ },
+ "Only the programmes of the chosen pillar are shown.": {
+  "hi": "सिर्फ़ चुने हुए पिलर के प्रोग्राम दिखते हैं।",
+  "gu": "ફક્ત પસંદ કરેલા પિલરના પ્રોગ્રામ દેખાય છે."
+ },
+ "Children is the total of boys and girls. All Impacted adds women, children and other.": {
+  "hi": "Children यानी लड़के और लड़कियाँ मिलाकर। All Impacted में महिलाएँ, बच्चे और बाकी लोग जुड़ते हैं।",
+  "gu": "Children એટલે છોકરા અને છોકરી મળીને. All Impacted માં મહિલાઓ, બાળકો અને બાકીના લોકો ઉમેરાય છે."
+ },
+ "Worked out from the programme: Vision Care counts 4 family members for each person reached.": {
+  "hi": "प्रोग्राम से निकाला जाता है: Vision Care में हर पहुँचे व्यक्ति के लिए परिवार के 4 लोग गिने जाते हैं।",
+  "gu": "પ્રોગ્રામ પરથી ગણાય છે: Vision Care માં દરેક પહોંચેલી વ્યક્તિ માટે પરિવારના 4 લોકો ગણાય છે."
+ },
+ "Dollar amounts are worked out from the rupee rate.": {
+  "hi": "डॉलर की रकम रुपये के रेट से निकाली जाती है।",
+  "gu": "ડોલરની રકમ રૂપિયાના દર પરથી ગણાય છે."
+ },
+ "Keep Draft until the numbers are final. Submitted locks the event.": {
+  "hi": "नंबर पक्के होने तक Draft रखें। Submitted करने पर इवेंट लॉक हो जाता है।",
+  "gu": "આંકડા પાકા થાય ત્યાં સુધી Draft રાખો. Submitted કરો તો ઇવેન્ટ લૉક થઈ જાય છે."
+ },
+ "Event names fill themselves": {
+  "hi": "इवेंट का नाम अपने आप भरता है",
+  "gu": "ઇવેન્ટનું નામ જાતે ભરાય છે"
+ },
+ "Totals worked out": {
+  "hi": "कुल जोड़ अपने आप निकला",
+  "gu": "કુલ સરવાળો જાતે ગણાયો"
+ },
+ "Rupees to dollars": {
+  "hi": "रुपये से डॉलर",
+  "gu": "રૂપિયાથી ડોલર"
+ },
+ "Draft and Submitted": {
+  "hi": "Draft और Submitted",
+  "gu": "Draft અને Submitted"
+ },
+ "Saved as **Vision Care and Awareness Camp** with the date. All Impacted is 92 and indirect people 368.": {
+  "hi": "तारीख के साथ **Vision Care and Awareness Camp** नाम से सेव हुआ। All Impacted 92 है और अप्रत्यक्ष लोग 368।",
+  "gu": "તારીખ સાથે **Vision Care and Awareness Camp** નામે સેવ થયું. All Impacted 92 છે અને આડકતરા લોકો 368."
+ },
+ "A submitted event is locked": {
+  "hi": "Submitted इवेंट लॉक रहता है",
+  "gu": "Submitted ઇવેન્ટ લૉક રહે છે"
+ },
+ "Why you cannot edit it, and who can.": {
+  "hi": "आप इसे क्यों नहीं बदल सकते, और कौन बदल सकता है।",
+  "gu": "તમે તેને કેમ બદલી નથી શકતા, અને કોણ બદલી શકે."
+ },
+ "Open the submitted event": {
+  "hi": "Submitted इवेंट खोलें",
+  "gu": "Submitted ઇવેન્ટ ખોલો"
+ },
+ "Try Edit": {
+  "hi": "Edit करके देखें",
+  "gu": "Edit કરી જુઓ"
+ },
+ "The app refuses": {
+  "hi": "ऐप मना कर देता है",
+  "gu": "એપ ના પાડી દે છે"
+ },
+ "This event was **Submitted** last week.": {
+  "hi": "यह इवेंट पिछले हफ़्ते **Submitted** हुआ था।",
+  "gu": "આ ઇવેન્ટ ગયા અઠવાડિયે **Submitted** થઈ હતી."
+ },
+ "Tap **Edit** under the registration details.": {
+  "hi": "रजिस्ट्रेशन की जानकारी के नीचे **Edit** पर टैप करें।",
+  "gu": "રજિસ્ટ્રેશનની વિગત નીચે **Edit** પર ટેપ કરો."
+ },
+ "The app refuses with a message at the bottom: **This event is submitted and locked. Ask your admin to change it.** The donor numbers cannot change by mistake.": {
+  "hi": "ऐप मना कर देता है और नीचे मैसेज दिखाता है: **This event is submitted and locked. Ask your admin to change it.** डोनर के नंबर ग़लती से नहीं बदल सकते।",
+  "gu": "એપ ના પાડી દે છે અને નીચે મેસેજ બતાવે છે: **This event is submitted and locked. Ask your admin to change it.** ડોનરના આંકડા ભૂલથી બદલાઈ શકતા નથી."
+ },
+ "Submitted lock": {
+  "hi": "Submitted लॉक",
+  "gu": "Submitted લૉક"
+ },
+ "Annual Program Plan": {
+  "hi": "Annual Program Plan",
+  "gu": "Annual Program Plan"
+ },
+ "Management plans the programmes of the year.": {
+  "hi": "मैनेजमेंट साल भर के प्रोग्राम प्लान करता है।",
+  "gu": "મેનેજમેન્ટ આખા વર્ષના પ્રોગ્રામ પ્લાન કરે છે."
+ },
+ "Register tab, Annual Program Plan": {
+  "hi": "Register टैब, फिर Annual Program Plan",
+  "gu": "Register ટેબ, પછી Annual Program Plan"
+ },
+ "Type the zone; the app adds the year": {
+  "hi": "ज़ोन का नाम लिखें; साल ऐप जोड़ता है",
+  "gu": "ઝોનનું નામ લખો; વર્ષ એપ ઉમેરે છે"
+ },
+ "One row per programme": {
+  "hi": "हर प्रोग्राम की एक लाइन",
+  "gu": "દરેક પ્રોગ્રામની એક લાઇન"
+ },
+ "Add one row per programme. Use the + button for more rows.": {
+  "hi": "हर प्रोग्राम के लिए एक लाइन जोड़ें। और लाइनें जोड़ने के लिए + बटन दबाएँ।",
+  "gu": "દરેક પ્રોગ્રામ માટે એક લાઇન ઉમેરો. વધુ લાઇન ઉમેરવા + બટન દબાવો."
+ },
+ "Only Management and Coordinators can plan. Field staff can only see the plan.": {
+  "hi": "सिर्फ़ मैनेजमेंट और कोऑर्डिनेटर प्लान बना सकते हैं। फ़ील्ड स्टाफ़ सिर्फ़ प्लान देख सकता है।",
+  "gu": "ફક્ત મેનેજમેન્ટ અને કોઓર્ડિનેટર પ્લાન બનાવી શકે. ફીલ્ડ સ્ટાફ ફક્ત પ્લાન જોઈ શકે."
+ },
+ "Tap **Annual Program Plan**.": {
+  "hi": "**Annual Program Plan** पर टैप करें।",
+  "gu": "**Annual Program Plan** પર ટેપ કરો."
+ },
+ "The name now starts with the financial year. Tap **SAVE**.": {
+  "hi": "अब नाम फ़ाइनेंशियल ईयर से शुरू होता है। **SAVE** पर टैप करें।",
+  "gu": "હવે નામ નાણાકીય વર્ષથી શરૂ થાય છે. **SAVE** પર ટેપ કરો."
+ },
+ "Type only the zone. At SAVE the app puts \"Annual Plan FY\" and the year in front.": {
+  "hi": "सिर्फ़ ज़ोन लिखें। SAVE करने पर ऐप आगे “Annual Plan FY” और साल लगा देता है।",
+  "gu": "ફક્ત ઝોન લખો. SAVE કરો ત્યારે એપ આગળ “Annual Plan FY” અને વર્ષ લગાવી દે છે."
+ },
+ "A programme can be in only one row.": {
+  "hi": "एक प्रोग्राम सिर्फ़ एक ही लाइन में आ सकता है।",
+  "gu": "એક પ્રોગ્રામ ફક્ત એક જ લાઇનમાં આવી શકે."
+ },
+ "Plan named by financial year": {
+  "hi": "प्लान का नाम फ़ाइनेंशियल ईयर से",
+  "gu": "પ્લાનનું નામ નાણાકીય વર્ષ પરથી"
+ },
+ "Wrong phone number": {
+  "hi": "ग़लत फ़ोन नंबर",
+  "gu": "ખોટો ફોન નંબર"
+ },
+ "The app refuses a number that is not a mobile number.": {
+  "hi": "जो नंबर मोबाइल नंबर नहीं है, उसे ऐप नहीं लेता।",
+  "gu": "જે નંબર મોબાઇલ નંબર નથી, તેને એપ લેતી નથી."
+ },
+ "Type a short number": {
+  "hi": "छोटा नंबर लिखें",
+  "gu": "નાનો નંબર લખો"
+ },
+ "The app stops you": {
+  "hi": "ऐप आपको रोक देता है",
+  "gu": "એપ તમને રોકી દે છે"
+ },
+ "Correct it": {
+  "hi": "उसे ठीक करें",
+  "gu": "તેને સુધારો"
+ },
+ "A mobile number has 10 digits and starts with 6, 7, 8 or 9.": {
+  "hi": "मोबाइल नंबर में 10 अंक होते हैं और वह 6, 7, 8 या 9 से शुरू होता है।",
+  "gu": "મોબાઇલ નંબરમાં 10 આંકડા હોય છે અને તે 6, 7, 8 કે 9 થી શરૂ થાય છે."
+ },
+ "The app stops you: **12345** is not a 10-digit mobile number. The message stays until you correct it.": {
+  "hi": "ऐप आपको रोक देता है: **12345** 10 अंकों का मोबाइल नंबर नहीं है। जब तक आप ठीक नहीं करते, मैसेज दिखता रहता है।",
+  "gu": "એપ તમને રોકી દે છે: **12345** 10 આંકડાનો મોબાઇલ નંબર નથી. તમે સુધારો નહીં ત્યાં સુધી મેસેજ દેખાતો રહે છે."
+ },
+ "Same person twice": {
+  "hi": "एक ही व्यक्ति दो बार",
+  "gu": "એક જ વ્યક્તિ બે વાર"
+ },
+ "The app stops a second record of the same person.": {
+  "hi": "ऐप एक ही व्यक्ति का दूसरा रिकॉर्ड बनने से रोकता है।",
+  "gu": "એપ એક જ વ્યક્તિનો બીજો રેકોર્ડ બનતો અટકાવે છે."
+ },
+ "Register a person who already exists": {
+  "hi": "ऐसे व्यक्ति को रजिस्टर करें जो पहले से है",
+  "gu": "એવી વ્યક્તિને રજિસ્ટર કરો જે પહેલેથી છે"
+ },
+ "Same name, village and number": {
+  "hi": "वही नाम, गाँव और नंबर",
+  "gu": "એ જ નામ, ગામ અને નંબર"
+ },
+ "Go back and search instead": {
+  "hi": "वापस जाएँ और उसकी जगह खोजें",
+  "gu": "પાછા જાઓ અને તેના બદલે શોધો"
+ },
+ "Search before you register.": {
+  "hi": "रजिस्टर करने से पहले खोजें।",
+  "gu": "રજિસ્ટર કરતાં પહેલાં શોધો."
+ },
+ "The app stops you: **Asha Patel** of Agasi with this number is already registered.": {
+  "hi": "ऐप आपको रोक देता है: इस नंबर के साथ Agasi की **Asha Patel** पहले से रजिस्टर है।",
+  "gu": "એપ તમને રોકી દે છે: આ નંબર સાથે Agasi ની **Asha Patel** પહેલેથી રજિસ્ટર છે."
+ },
+ "Tap **Home** to leave this form.": {
+  "hi": "यह फ़ॉर्म छोड़ने के लिए **Home** पर टैप करें।",
+  "gu": "આ ફોર્મ છોડવા માટે **Home** પર ટેપ કરો."
+ },
+ "Tap **YES**. Then search for Asha instead of registering her again.": {
+  "hi": "**YES** पर टैप करें। फिर Asha को दोबारा रजिस्टर करने की जगह उसे खोजें।",
+  "gu": "**YES** પર ટેપ કરો. પછી Asha ને ફરીથી રજિસ્ટર કરવાને બદલે તેને શોધો."
+ },
+ "Same camp twice in a day": {
+  "hi": "एक दिन में वही कैंप दो बार",
+  "gu": "એક દિવસમાં એ જ કેમ્પ બે વાર"
+ },
+ "The app refuses a double entry.": {
+  "hi": "ऐप दोहरी एंट्री नहीं लेता।",
+  "gu": "એપ બેવડી એન્ટ્રી લેતી નથી."
+ },
+ "Asha already came to today's Gynec camp": {
+  "hi": "Asha आज के Gynec कैंप में पहले ही आ चुकी है",
+  "gu": "Asha આજના Gynec કેમ્પમાં પહેલેથી આવી ગઈ છે"
+ },
+ "Start a second Health Camp": {
+  "hi": "दूसरा Health Camp शुरू करें",
+  "gu": "બીજો Health Camp શરૂ કરો"
+ },
+ "To change today's entry, open it and tap **Edit**.": {
+  "hi": "आज की एंट्री बदलनी हो, तो उसे खोलें और **Edit** पर टैप करें।",
+  "gu": "આજની એન્ટ્રી બદલવી હોય, તો તેને ખોલો અને **Edit** પર ટેપ કરો."
+ },
+ "**Asha Patel** already has a Health Camp today.": {
+  "hi": "**Asha Patel** का आज पहले से एक Health Camp है।",
+  "gu": "**Asha Patel** નો આજે પહેલેથી એક Health Camp છે."
+ },
+ "The app stops you: this person already has a Gynec camp entry today. Open that entry and use Edit.": {
+  "hi": "ऐप आपको रोक देता है: इस व्यक्ति की आज पहले से Gynec कैंप की एंट्री है। वही एंट्री खोलें और Edit इस्तेमाल करें।",
+  "gu": "એપ તમને રોકી દે છે: આ વ્યક્તિની આજે પહેલેથી Gynec કેમ્પની એન્ટ્રી છે. એ જ એન્ટ્રી ખોલો અને Edit વાપરો."
+ },
+ "Same-day double entry blocked": {
+  "hi": "एक दिन में दोहरी एंट्री बंद",
+  "gu": "એક દિવસમાં બેવડી એન્ટ્રી બંધ"
+ },
+ "Tap **Home** to leave the form.": {
+  "hi": "फ़ॉर्म छोड़ने के लिए **Home** पर टैप करें।",
+  "gu": "ફોર્મ છોડવા માટે **Home** પર ટેપ કરો."
+ },
+ "Tap **YES**.": {
+  "hi": "**YES** पर टैप करें।",
+  "gu": "**YES** પર ટેપ કરો."
+ },
+ "Joining a batch that ended": {
+  "hi": "ख़त्म हो चुके बैच में जुड़ना",
+  "gu": "પૂરા થઈ ગયેલા બેચમાં જોડાવું"
+ },
+ "A finished batch refuses new students.": {
+  "hi": "ख़त्म हो चुका बैच नए विद्यार्थी नहीं लेता।",
+  "gu": "પૂરો થઈ ગયેલો બેચ નવા વિદ્યાર્થી લેતો નથી."
+ },
+ "Open a batch that has ended": {
+  "hi": "ऐसा बैच खोलें जो ख़त्म हो चुका है",
+  "gu": "એવો બેચ ખોલો જે પૂરો થઈ ગયો છે"
+ },
+ "Add a student": {
+  "hi": "विद्यार्थी जोड़ें",
+  "gu": "વિદ્યાર્થી ઉમેરો"
+ },
+ "Late joining is allowed only up to 3 days after the last class day.": {
+  "hi": "देर से जुड़ना सिर्फ़ आख़िरी क्लास के दिन के 3 दिन बाद तक ही हो सकता है।",
+  "gu": "મોડા જોડાવાનું ફક્ત છેલ્લા ક્લાસના દિવસ પછી 3 દિવસ સુધી જ થઈ શકે."
+ },
+ "This Summer Camp ended more than 3 days ago.": {
+  "hi": "यह समर कैंप 3 दिन से ज़्यादा पहले ख़त्म हो चुका है।",
+  "gu": "આ સમર કેમ્પ 3 દિવસથી વધુ પહેલાં પૂરો થઈ ગયો છે."
+ },
+ "For **Role**, tap **Member**.": {
+  "hi": "**Role** में **Member** पर टैप करें।",
+  "gu": "**Role** માં **Member** પર ટેપ કરો."
+ },
+ "Tap **Nisha Solanki**.": {
+  "hi": "**Nisha Solanki** पर टैप करें।",
+  "gu": "**Nisha Solanki** પર ટેપ કરો."
+ },
+ "The app refuses at once, in red under **Group Member**: the batch ended. Start a new batch for new students.": {
+  "hi": "ऐप तुरंत मना कर देता है, **Group Member** के नीचे लाल रंग में: बैच ख़त्म हो चुका है। नए विद्यार्थियों के लिए नया बैच शुरू करें।",
+  "gu": "એપ તરત ના પાડી દે છે, **Group Member** નીચે લાલ અક્ષરમાં: બેચ પૂરો થઈ ગયો છે. નવા વિદ્યાર્થીઓ માટે નવો બેચ શરૂ કરો."
+ },
+ "Coordinator Home": {
+  "hi": "कोऑर्डिनेटर का Home",
+  "gu": "કોઓર્ડિનેટરનું Home"
+ },
+ "Your team's late work, drafts and two dashboards.": {
+  "hi": "आपकी टीम का देर वाला काम, ड्राफ़्ट और दो डैशबोर्ड।",
+  "gu": "તમારી ટીમનું મોડું થયેલું કામ, ડ્રાફ્ટ અને બે ડેશબોર્ડ."
+ },
+ "Your Home": {
+  "hi": "आपका Home",
+  "gu": "તમારું Home"
+ },
+ "Events left in Draft": {
+  "hi": "Draft में पड़े इवेंट",
+  "gu": "Draft માં પડેલી ઇવેન્ટ"
+ },
+ "Supervisor Reports tab": {
+  "hi": "Supervisor Reports टैब",
+  "gu": "Supervisor Reports ટેબ"
+ },
+ "Check the Draft card every week.": {
+  "hi": "हर हफ़्ते Draft वाला कार्ड देखें।",
+  "gu": "દર અઠવાડિયે Draft વાળું કાર્ડ જુઓ."
+ },
+ "As a coordinator, **Do first** also shows **Events in Draft (over 7 days)**: events your team has not submitted.": {
+  "hi": "कोऑर्डिनेटर के तौर पर **Do first** में **Events in Draft (over 7 days)** भी दिखता है: वे इवेंट जो आपकी टीम ने अभी Submit नहीं किए।",
+  "gu": "કોઓર્ડિનેટર તરીકે **Do first** માં **Events in Draft (over 7 days)** પણ દેખાય છે: એ ઇવેન્ટ જે તમારી ટીમે હજી Submit કરી નથી."
+ },
+ "Drafts card": {
+  "hi": "ड्राफ़्ट वाला कार्ड",
+  "gu": "ડ્રાફ્ટ વાળું કાર્ડ"
+ },
+ "Tap **Events in Draft (over 7 days)**.": {
+  "hi": "**Events in Draft (over 7 days)** पर टैप करें।",
+  "gu": "**Events in Draft (over 7 days)** પર ટેપ કરો."
+ },
+ "Open the event, check the numbers with the field executive, then set it to Submitted.": {
+  "hi": "इवेंट खोलें, फ़ील्ड एग्ज़िक्यूटिव के साथ नंबर जाँचें, फिर उसे Submitted करें।",
+  "gu": "ઇવેન્ટ ખોલો, ફીલ્ડ એક્ઝિક્યુટિવ સાથે આંકડા તપાસો, પછી તેને Submitted કરો."
+ },
+ "Tap **Home**.": {
+  "hi": "**Home** पर टैप करें।",
+  "gu": "**Home** પર ટેપ કરો."
+ },
+ "Tap **Supervisor Reports** at the bottom.": {
+  "hi": "नीचे **Supervisor Reports** पर टैप करें।",
+  "gu": "નીચે **Supervisor Reports** પર ટેપ કરો."
+ },
+ "This week and the last 30 days, and what needs attention.": {
+  "hi": "यह हफ़्ता और पिछले 30 दिन, और किस पर ध्यान देना है।",
+  "gu": "આ અઠવાડિયું અને છેલ્લા 30 દિવસ, અને શેના પર ધ્યાન આપવાનું છે."
+ },
+ "Management dashboard": {
+  "hi": "मैनेजमेंट डैशबोर्ड",
+  "gu": "મેનેજમેન્ટ ડેશબોર્ડ"
+ },
+ "The programme at a glance, and the other dashboards.": {
+  "hi": "एक नज़र में पूरा प्रोग्राम, और बाकी डैशबोर्ड।",
+  "gu": "એક નજરમાં આખો પ્રોગ્રામ, અને બાકીનાં ડેશબોર્ડ."
+ },
+ "Needs attention": {
+  "hi": "ध्यान देने वाली बातें",
+  "gu": "ધ્યાન આપવા જેવી બાબતો"
+ },
+ "Totals": {
+  "hi": "कुल जोड़",
+  "gu": "કુલ સરવાળો"
+ },
+ "More > Dashboards": {
+  "hi": "More > Dashboards",
+  "gu": "More > Dashboards"
+ },
+ "The phone shows today's work. Metabase shows the year.": {
+  "hi": "फ़ोन आज का काम दिखाता है। Metabase पूरे साल का दिखाता है।",
+  "gu": "ફોન આજનું કામ બતાવે છે. Metabase આખા વર્ષનું બતાવે છે."
+ },
+ "**Needs attention** brings together drafts, referrals not followed, overdue follow-ups and unmarked classes.": {
+  "hi": "**Needs attention** में ये सब एक जगह आते हैं: ड्राफ़्ट, रेफ़रल जिन पर लोग नहीं गए, देर वाले फ़ॉलो-अप और बिना हाज़िरी वाली क्लास।",
+  "gu": "**Needs attention** માં આ બધું એક જગ્યાએ આવે છે: ડ્રાફ્ટ, રેફરલ જેના પર લોકો ગયા નથી, મોડાં ફોલો-અપ અને હાજરી વગરના ક્લાસ."
+ },
+ "**Totals** counts beneficiaries and this week's work.": {
+  "hi": "**Totals** में लाभार्थी और इस हफ़्ते का काम गिना जाता है।",
+  "gu": "**Totals** માં લાભાર્થી અને આ અઠવાડિયાનું કામ ગણાય છે."
+ },
+ "Tap **More**.": {
+  "hi": "**More** पर टैप करें।",
+  "gu": "**More** પર ટેપ કરો."
+ },
+ "Tap **Dashboards**.": {
+  "hi": "**Dashboards** पर टैप करें।",
+  "gu": "**Dashboards** પર ટેપ કરો."
+ },
+ "You can also open the coordinator and field dashboards from here. Detailed reports are in **Desai reports (Metabase)**.": {
+  "hi": "कोऑर्डिनेटर और फ़ील्ड वाले डैशबोर्ड भी आप यहीं से खोल सकते हैं। पूरी रिपोर्ट **Desai reports (Metabase)** में है।",
+  "gu": "કોઓર્ડિનેટર અને ફીલ્ડનાં ડેશબોર્ડ પણ તમે અહીંથી જ ખોલી શકો. વિગતવાર રિપોર્ટ **Desai reports (Metabase)** માં છે."
+ },
+ "Home": {
+  "hi": "Home",
+  "gu": "Home"
+ },
+ "Cards with a number. Tap a card to see who is in it.": {
+  "hi": "नंबर वाले कार्ड। किसी कार्ड पर टैप करके देखें उसमें कौन-कौन है।",
+  "gu": "નંબરવાળાં કાર્ડ. કોઈ કાર્ડ પર ટેપ કરીને જુઓ તેમાં કોણ કોણ છે."
+ },
+ "**FILTER** shows one village.": {
+  "hi": "**FILTER** से एक गाँव दिखता है।",
+  "gu": "**FILTER** થી એક ગામ દેખાય છે."
+ },
+ "Search (top) finds a record; Sync sends your work.": {
+  "hi": "Search (ऊपर) से रिकॉर्ड मिलता है; Sync से आपका काम भेजा जाता है।",
+  "gu": "Search (ઉપર) થી રેકોર્ડ મળે છે; Sync થી તમારું કામ મોકલાય છે."
+ },
+ "Second dashboard": {
+  "hi": "दूसरा डैशबोर्ड",
+  "gu": "બીજું ડેશબોર્ડ"
+ },
+ "A second set of cards for your role.": {
+  "hi": "आपके रोल के लिए कार्ड का दूसरा सेट।",
+  "gu": "તમારા રોલ માટે કાર્ડનો બીજો સેટ."
+ },
+ "A card's list": {
+  "hi": "कार्ड की लिस्ट",
+  "gu": "કાર્ડની યાદી"
+ },
+ "Everyone the card counts. Tap a row to open it.": {
+  "hi": "कार्ड जिन-जिन को गिनता है, वे सब। खोलने के लिए किसी लाइन पर टैप करें।",
+  "gu": "કાર્ડ જેમને ગણે છે, એ બધા. ખોલવા માટે કોઈ લાઇન પર ટેપ કરો."
+ },
+ "Search": {
+  "hi": "Search",
+  "gu": "Search"
+ },
+ "Choose the type, type a part of the name, tap Submit.": {
+  "hi": "टाइप चुनें, नाम का कुछ हिस्सा लिखें, Submit पर टैप करें।",
+  "gu": "પ્રકાર પસંદ કરો, નામનો થોડો ભાગ લખો, Submit પર ટેપ કરો."
+ },
+ "Search results": {
+  "hi": "खोज के नतीजे",
+  "gu": "શોધનાં પરિણામ"
+ },
+ "Tap a row to open it.": {
+  "hi": "खोलने के लिए किसी लाइन पर टैप करें।",
+  "gu": "ખોલવા માટે કોઈ લાઇન પર ટેપ કરો."
+ },
+ "Register": {
+  "hi": "Register",
+  "gu": "Register"
+ },
+ "Every record starts here: a person, a batch, an event or a plan.": {
+  "hi": "हर रिकॉर्ड यहीं से शुरू होता है: व्यक्ति, बैच, इवेंट या प्लान।",
+  "gu": "દરેક રેકોર્ડ અહીંથી જ શરૂ થાય છે: વ્યક્તિ, બેચ, ઇવેન્ટ કે પ્લાન."
+ },
+ "You see only what your role may register.": {
+  "hi": "आपको सिर्फ़ वही दिखता है जो आपका रोल रजिस्टर कर सकता है।",
+  "gu": "તમને ફક્ત એ જ દેખાય છે જે તમારો રોલ રજિસ્ટર કરી શકે."
+ },
+ "A record's page": {
+  "hi": "रिकॉर्ड का पेज",
+  "gu": "રેકોર્ડનું પેજ"
+ },
+ "**Profile**: registration details, and for a batch its students and Attendance.": {
+  "hi": "**Profile**: रजिस्ट्रेशन की जानकारी, और बैच हो तो उसके विद्यार्थी और Attendance।",
+  "gu": "**Profile**: રજિસ્ટ્રેશનની વિગત, અને બેચ હોય તો તેના વિદ્યાર્થી અને Attendance."
+ },
+ "**General**: visits planned and done. **New Form** starts a visit.": {
+  "hi": "**General**: प्लान की हुई और पूरी हुई विज़िट। **New Form** से विज़िट शुरू होती है।",
+  "gu": "**General**: પ્લાન કરેલી અને પૂરી થયેલી વિઝિટ. **New Form** થી વિઝિટ શરૂ થાય છે."
+ },
+ "A form": {
+  "hi": "एक फ़ॉर्म",
+  "gu": "એક ફોર્મ"
+ },
+ "Questions with * must be answered.": {
+  "hi": "जिन सवालों पर * है, उनका जवाब देना ज़रूरी है।",
+  "gu": "જે સવાલ પર * છે, તેનો જવાબ આપવો ફરજિયાત છે."
+ },
+ "Some questions appear only after an answer.": {
+  "hi": "कुछ सवाल किसी जवाब के बाद ही आते हैं।",
+  "gu": "અમુક સવાલ કોઈ જવાબ પછી જ આવે છે."
+ },
+ "NEXT checks the page; PREVIOUS goes back.": {
+  "hi": "NEXT पेज को जाँचता है; PREVIOUS पीछे ले जाता है।",
+  "gu": "NEXT પેજને તપાસે છે; PREVIOUS પાછળ લઈ જાય છે."
+ },
+ "Summary": {
+  "hi": "सारांश (Summary)",
+  "gu": "સારાંશ (Summary)"
+ },
+ "Check every answer. Nothing is saved until you tap SAVE.": {
+  "hi": "हर जवाब जाँचें। जब तक आप SAVE पर टैप नहीं करते, कुछ भी सेव नहीं होता।",
+  "gu": "દરેક જવાબ તપાસો. તમે SAVE પર ટેપ ન કરો ત્યાં સુધી કંઈ સેવ થતું નથી."
+ },
+ "Attendance": {
+  "hi": "Attendance",
+  "gu": "Attendance"
+ },
+ "P present, A absent. Every absent student needs a reason.": {
+  "hi": "P यानी हाज़िर, A यानी ग़ैरहाज़िर। हर ग़ैरहाज़िर विद्यार्थी का कारण ज़रूरी है।",
+  "gu": "P એટલે હાજર, A એટલે ગેરહાજર. દરેક ગેરહાજર વિદ્યાર્થીનું કારણ ફરજિયાત છે."
+ },
+ "Pick another day from the dates at the top.": {
+  "hi": "ऊपर की तारीखों में से कोई और दिन चुनें।",
+  "gu": "ઉપરની તારીખોમાંથી બીજો કોઈ દિવસ પસંદ કરો."
+ },
+ "Search an existing person or register a new one.": {
+  "hi": "पहले से रजिस्टर व्यक्ति को खोजें, या नया रजिस्टर करें।",
+  "gu": "પહેલેથી રજિસ્ટર વ્યક્તિને શોધો, કે નવી રજિસ્ટર કરો."
+ },
+ "More": {
+  "hi": "More",
+  "gu": "More"
+ },
+ "Dashboards, Metabase reports, sync status, logout.": {
+  "hi": "डैशबोर्ड, Metabase रिपोर्ट, Sync की स्थिति, लॉग आउट।",
+  "gu": "ડેશબોર્ડ, Metabase રિપોર્ટ, Sync ની સ્થિતિ, લૉગ આઉટ."
+ },
+ "Login": {
+  "hi": "Login",
+  "gu": "Login"
+ },
+ "Type your user ID and password.": {
+  "hi": "अपना यूज़र ID और पासवर्ड लिखें।",
+  "gu": "તમારું યુઝર ID અને પાસવર્ડ લખો."
+ },
+ "Filter": {
+  "hi": "Filter",
+  "gu": "Filter"
+ },
+ "Pick a village, then Apply.": {
+  "hi": "गाँव चुनें, फिर Apply।",
+  "gu": "ગામ પસંદ કરો, પછી Apply."
+ },
+ "Dashboards": {
+  "hi": "Dashboards",
+  "gu": "Dashboards"
+ },
+ "Every dashboard your role may open.": {
+  "hi": "हर डैशबोर्ड जो आपका रोल खोल सकता है।",
+  "gu": "દરેક ડેશબોર્ડ જે તમારો રોલ ખોલી શકે."
+ },
+ "Dashboard": {
+  "hi": "Dashboard",
+  "gu": "Dashboard"
+ },
+ "Cards of another dashboard.": {
+  "hi": "दूसरे डैशबोर्ड के कार्ड।",
+  "gu": "બીજા ડેશબોર્ડનાં કાર્ડ."
+ },
+ "Start here": {
+  "hi": "यहाँ से शुरू करें",
+  "gu": "અહીંથી શરૂ કરો"
+ },
+ "Health camp day": {
+  "hi": "हेल्थ कैंप का दिन",
+  "gu": "હેલ્થ કેમ્પનો દિવસ"
+ },
+ "Batches and classes": {
+  "hi": "बैच और क्लास",
+  "gu": "બેચ અને ક્લાસ"
+ },
+ "Events and planning": {
+  "hi": "इवेंट और प्लानिंग",
+  "gu": "ઇવેન્ટ અને પ્લાનિંગ"
+ },
+ "Mistakes the app stops": {
+  "hi": "ग़लतियाँ जो ऐप रोक देता है",
+  "gu": "ભૂલો જે એપ અટકાવી દે છે"
+ },
+ "Coordinators and management": {
+  "hi": "कोऑर्डिनेटर और मैनेजमेंट",
+  "gu": "કોઓર્ડિનેટર અને મેનેજમેન્ટ"
+ },
+ "Field Executive": {
+  "hi": "फ़ील्ड एग्ज़िक्यूटिव",
+  "gu": "ફીલ્ડ એક્ઝિક્યુટિવ"
+ },
+ "Coordinator": {
+  "hi": "कोऑर्डिनेटर",
+  "gu": "કોઓર્ડિનેટર"
+ },
+ "Management": {
+  "hi": "मैनेजमेंट",
+  "gu": "મેનેજમેન્ટ"
+ },
+ "Admin and Operations": {
+  "hi": "एडमिन और ऑपरेशंस",
+  "gu": "એડમિન અને ઓપરેશન્સ"
+ },
+ "Registration": {
+  "hi": "रजिस्ट्रेशन",
+  "gu": "રજિસ્ટ્રેશન"
+ },
+ "Live on UAT": {
+  "hi": "UAT पर चालू",
+  "gu": "UAT પર ચાલુ"
+ },
+ "Health camp": {
+  "hi": "हेल्थ कैंप",
+  "gu": "હેલ્થ કેમ્પ"
+ },
+ "Screening & follow-up": {
+  "hi": "स्क्रीनिंग और फ़ॉलो-अप",
+  "gu": "સ્ક્રીનિંગ અને ફોલો-અપ"
+ },
+ "Livelihood & education batches": {
+  "hi": "रोज़गार और पढ़ाई के बैच",
+  "gu": "રોજગાર અને ભણતરના બેચ"
+ },
+ "Event Matrix": {
+  "hi": "Event Matrix",
+  "gu": "Event Matrix"
+ },
+ "Annual Plan": {
+  "hi": "Annual Plan",
+  "gu": "Annual Plan"
+ },
+ "Dashboards (phone)": {
+  "hi": "डैशबोर्ड (फ़ोन)",
+  "gu": "ડેશબોર્ડ (ફોન)"
+ },
+ "Reports (Metabase)": {
+  "hi": "रिपोर्ट (Metabase)",
+  "gu": "રિપોર્ટ (Metabase)"
+ },
+ "Data quality": {
+  "hi": "डेटा की क्वालिटी",
+  "gu": "ડેટાની ગુણવત્તા"
+ },
+ "Roles & access": {
+  "hi": "रोल और एक्सेस",
+  "gu": "રોલ અને એક્સેસ"
+ },
+ "Sync & offline": {
+  "hi": "Sync और ऑफ़लाइन",
+  "gu": "Sync અને ઓફલાઇન"
+ },
+ "Planned": {
+  "hi": "प्लान में",
+  "gu": "પ્લાનમાં"
+ },
+ "Training & guides": {
+  "hi": "ट्रेनिंग और गाइड",
+  "gu": "ટ્રેનિંગ અને ગાઇડ"
+ },
+ "Built, not live": {
+  "hi": "बन गया, अभी चालू नहीं",
+  "gu": "બની ગયું, હજી ચાલુ નથી"
+ },
+ "Live (website)": {
+  "hi": "चालू (वेबसाइट)",
+  "gu": "ચાલુ (વેબસાઇટ)"
+ },
+ "Other": {
+  "hi": "अन्य",
+  "gu": "અન્ય"
+ },
+ "Fix **{0}**: {1}": {
+  "hi": "**{0}** ठीक करें: {1}",
+  "gu": "**{0}** સુધારો: {1}"
+ },
+ "For **{0}**, tap **{1}**.": {
+  "hi": "**{0}** में **{1}** पर टैप करें।",
+  "gu": "**{0}** માં **{1}** પર ટેપ કરો."
+ },
+ "For **{0}**, tap **Choose a date** and pick **{1}**.": {
+  "hi": "**{0}** में **Choose a date** पर टैप करें और **{1}** चुनें।",
+  "gu": "**{0}** માં **Choose a date** પર ટેપ કરો અને **{1}** પસંદ કરો."
+ },
+ "Type **{0}**. Example: **{1}**": {
+  "hi": "**{0}** लिखें। जैसे: **{1}**",
+  "gu": "**{0}** લખો. જેમ કે: **{1}**"
+ },
+ "Type the **First Name**. Example: **{0}**": {
+  "hi": "**First Name** लिखें। जैसे: **{0}**",
+  "gu": "**First Name** લખો. જેમ કે: **{0}**"
+ },
+ "Type the **Last Name**. Example: **{0}**": {
+  "hi": "**Last Name** लिखें। जैसे: **{0}**",
+  "gu": "**Last Name** લખો. જેમ કે: **{0}**"
+ },
+ "Pick the **Date of Birth**, or type the **Age**. Example: **{0}** Years": {
+  "hi": "**Date of Birth** चुनें, या **Age** लिखें। जैसे: **{0}** साल",
+  "gu": "**Date of Birth** પસંદ કરો, અથવા **Age** લખો. જેમ કે: **{0}** વર્ષ"
+ },
+ "For **Gender**, tap **{0}**.": {
+  "hi": "**Gender** में **{0}** पर टैप करें।",
+  "gu": "**Gender** માં **{0}** પર ટેપ કરો."
+ },
+ "Type the name. Example: **{0}**": {
+  "hi": "नाम लिखें। जैसे: **{0}**",
+  "gu": "નામ લખો. જેમ કે: **{0}**"
+ },
+ "The app has filled the name for you. Leave it as it is.": {
+  "hi": "ऐप ने आपके लिए नाम भर दिया है। उसे वैसा ही रहने दें।",
+  "gu": "એપે તમારા માટે નામ ભરી દીધું છે. તેને એમ જ રહેવા દો."
+ },
+ "For **Address**, tap the village **{0}**.": {
+  "hi": "**Address** में गाँव **{0}** पर टैप करें।",
+  "gu": "**Address** માં ગામ **{0}** પર ટેપ કરો."
+ },
+ "Tap the date, then tap **OK**.": {
+  "hi": "तारीख पर टैप करें, फिर **OK** पर टैप करें।",
+  "gu": "તારીખ પર ટેપ કરો, પછી **OK** પર ટેપ કરો."
+ },
+ "Tap **NO** to stay in the form.": {
+  "hi": "फ़ॉर्म में ही रहने के लिए **NO** पर टैप करें।",
+  "gu": "ફોર્મમાં જ રહેવા માટે **NO** પર ટેપ કરો."
+ },
+ "This is the summary. Check your answers, then tap **SAVE**.": {
+  "hi": "यह सारांश है। अपने जवाब जाँचें, फिर **SAVE** पर टैप करें।",
+  "gu": "આ સારાંશ છે. તમારા જવાબ તપાસો, પછી **SAVE** પર ટેપ કરો."
+ },
+ "Nothing is saved until you tap SAVE.": {
+  "hi": "जब तक आप SAVE पर टैप नहीं करते, कुछ भी सेव नहीं होता।",
+  "gu": "તમે SAVE પર ટેપ ન કરો ત્યાં સુધી કંઈ સેવ થતું નથી."
+ },
+ "The app shows the message in red: {0}": {
+  "hi": "ऐप लाल रंग में मैसेज दिखाता है: {0}",
+  "gu": "એપ લાલ અક્ષરમાં મેસેજ બતાવે છે: {0}"
+ },
+ "Fix this first: {0}": {
+  "hi": "पहले इसे ठीक करें: {0}",
+  "gu": "પહેલાં આ સુધારો: {0}"
+ },
+ "This page is complete. Tap **NEXT** to see the summary.": {
+  "hi": "यह पेज पूरा हो गया। सारांश देखने के लिए **NEXT** पर टैप करें।",
+  "gu": "આ પેજ પૂરું થયું. સારાંશ જોવા માટે **NEXT** પર ટેપ કરો."
+ },
+ "This page is complete. Tap **NEXT**.": {
+  "hi": "यह पेज पूरा हो गया। **NEXT** पर टैप करें।",
+  "gu": "આ પેજ પૂરું થયું. **NEXT** પર ટેપ કરો."
+ },
+ "Read the note, then press Next": {
+  "hi": "नोट पढ़ें, फिर आगे दबाएँ",
+  "gu": "નોંધ વાંચો, પછી આગળ દબાવો"
+ },
+ "Tap the highlighted part": {
+  "hi": "चमकते हिस्से पर टैप करें",
+  "gu": "ચમકતા ભાગ પર ટેપ કરો"
+ },
+ "Practice app for Desai Foundation Trust staff": {
+  "hi": "Desai Foundation Trust के स्टाफ़ के लिए प्रैक्टिस ऐप",
+  "gu": "Desai Foundation Trust ના સ્ટાફ માટે પ્રેક્ટિસ એપ"
+ },
+ "Guided lessons": {
+  "hi": "स्टेप-बाय-स्टेप पाठ",
+  "gu": "સ્ટેપ-બાય-સ્ટેપ પાઠ"
+ },
+ "One step at a time": {
+  "hi": "एक बार में एक स्टेप",
+  "gu": "એક વખતે એક સ્ટેપ"
+ },
+ "Free explore": {
+  "hi": "ख़ुद घूमकर देखें",
+  "gu": "જાતે ફરીને જુઓ"
+ },
+ "Tap anything you like": {
+  "hi": "जिस पर मन करे, उस पर टैप करें",
+  "gu": "જેના પર મન થાય, તેના પર ટેપ કરો"
+ },
+ "What we added": {
+  "hi": "हमने क्या जोड़ा",
+  "gu": "અમે શું ઉમેર્યું"
+ },
+ "Beyond the scoping": {
+  "hi": "स्कोपिंग से आगे",
+  "gu": "સ્કોપિંગથી આગળ"
+ },
+ "Next": {
+  "hi": "आगे",
+  "gu": "આગળ"
+ },
+ "Please wait…": {
+  "hi": "थोड़ा रुकें…",
+  "gu": "થોડી રાહ જુઓ…"
+ },
+ "Do it for me": {
+  "hi": "मेरे लिए कर दो",
+  "gu": "મારા માટે કરી દો"
+ },
+ "Added by Samanvay": {
+  "hi": "Samanvay ने जोड़ा",
+  "gu": "Samanvay એ ઉમેર્યું"
+ },
+ "All lessons": {
+  "hi": "सारे पाठ",
+  "gu": "બધા પાઠ"
+ },
+ "Start again": {
+  "hi": "फिर से शुरू करें",
+  "gu": "ફરીથી શરૂ કરો"
+ },
+ "Lesson complete": {
+  "hi": "पाठ पूरा हुआ",
+  "gu": "પાઠ પૂરો થયો"
+ },
+ "Well done. Remember these points:": {
+  "hi": "शाबाश! ये बातें याद रखें:",
+  "gu": "શાબાશ! આ વાતો યાદ રાખો:"
+ },
+ "Next lesson": {
+  "hi": "अगला पाठ",
+  "gu": "આગળનો પાઠ"
+ },
+ "Practise again": {
+  "hi": "फिर से प्रैक्टिस करें",
+  "gu": "ફરીથી પ્રેક્ટિસ કરો"
+ },
+ "Step": {
+  "hi": "स्टेप",
+  "gu": "સ્ટેપ"
+ },
+ "Read": {
+  "hi": "पढ़ें",
+  "gu": "વાંચો"
+ },
+ "Your turn": {
+  "hi": "अब आपकी बारी",
+  "gu": "હવે તમારો વારો"
+ },
+ "Follow the highlighted part on the phone.": {
+  "hi": "फ़ोन पर चमकते हिस्से के हिसाब से करें।",
+  "gu": "ફોન પર ચમકતા ભાગ પ્રમાણે કરો."
+ },
+ "How this task flows": {
+  "hi": "यह काम कैसे आगे बढ़ता है",
+  "gu": "આ કામ કેવી રીતે આગળ વધે છે"
+ },
+ "The app does this by itself": {
+  "hi": "यह ऐप अपने आप करता है",
+  "gu": "આ એપ જાતે કરે છે"
+ },
+ "Why it matters": {
+  "hi": "यह क्यों ज़रूरी है",
+  "gu": "આ કેમ જરૂરી છે"
+ },
+ "Practice data only. Nothing here reaches the real app.": {
+  "hi": "सिर्फ़ प्रैक्टिस का डेटा। यहाँ से कुछ भी असली ऐप तक नहीं जाता।",
+  "gu": "ફક્ત પ્રેક્ટિસનો ડેટા. અહીંથી કંઈ પણ સાચી એપ સુધી જતું નથી."
+ },
+ "App": {
+  "hi": "ऐप",
+  "gu": "એપ"
+ },
+ "You": {
+  "hi": "आप",
+  "gu": "તમે"
+ },
+ "You are here": {
+  "hi": "आप यहाँ हैं",
+  "gu": "તમે અહીં છો"
+ },
+ "Practise as": {
+  "hi": "इस रोल में प्रैक्टिस करें",
+  "gu": "આ રોલમાં પ્રેક્ટિસ કરો"
+ },
+ "Reset practice data": {
+  "hi": "प्रैक्टिस डेटा रीसेट करें",
+  "gu": "પ્રેક્ટિસ ડેટા રીસેટ કરો"
+ },
+ "Learn the Desai Foundation app by using it": {
+  "hi": "Desai Foundation का ऐप चलाकर सीखें",
+  "gu": "Desai Foundation ની એપ વાપરીને શીખો"
+ },
+ "The phone on the right works like the real Avni app of Desai Foundation Trust: the same screens, forms, checks and cards. Pick a lesson and follow the glowing box.": {
+  "hi": "दाईं ओर का फ़ोन Desai Foundation Trust के असली Avni ऐप जैसा ही चलता है: वही स्क्रीन, फ़ॉर्म, जाँच और कार्ड। कोई पाठ चुनें और चमकते बॉक्स के हिसाब से करें।",
+  "gu": "જમણી બાજુનો ફોન Desai Foundation Trust ની સાચી Avni એપ જેવો જ ચાલે છે: એ જ સ્ક્રીન, ફોર્મ, તપાસ અને કાર્ડ. કોઈ પાઠ પસંદ કરો અને ચમકતા બોક્સ પ્રમાણે કરો."
+ },
+ "Read one short step here": {
+  "hi": "यहाँ एक छोटा स्टेप पढ़ें",
+  "gu": "અહીં એક નાનું સ્ટેપ વાંચો"
+ },
+ "Tap the glowing part on the phone": {
+  "hi": "फ़ोन पर चमकते हिस्से पर टैप करें",
+  "gu": "ફોન પર ચમકતા ભાગ પર ટેપ કરો"
+ },
+ "Stuck? Press “Do it for me”": {
+  "hi": "अटक गए? “मेरे लिए कर दो” दबाएँ",
+  "gu": "અટકી ગયા? “મારા માટે કરી દો” દબાવો"
+ },
+ "lessons completed": {
+  "hi": "पाठ पूरे हुए",
+  "gu": "પાઠ પૂરા થયા"
+ },
+ "Avni in one minute": {
+  "hi": "एक मिनट में Avni",
+  "gu": "એક મિનિટમાં Avni"
+ },
+ "Journey 1: a person at a health camp": {
+  "hi": "सफ़र 1: हेल्थ कैंप में एक व्यक्ति",
+  "gu": "સફર 1: હેલ્થ કેમ્પમાં એક વ્યક્તિ"
+ },
+ "Journey 2: a training batch": {
+  "hi": "सफ़र 2: एक ट्रेनिंग बैच",
+  "gu": "સફર 2: એક ટ્રેનિંગ બેચ"
+ },
+ "Journey 3: an event and the annual plan": {
+  "hi": "सफ़र 3: एक इवेंट और सालाना प्लान",
+  "gu": "સફર 3: એક ઇવેન્ટ અને વાર્ષિક પ્લાન"
+ },
+ "You do this": {
+  "hi": "यह आप करते हैं",
+  "gu": "આ તમે કરો છો"
+ },
+ "A check": {
+  "hi": "एक जाँच",
+  "gu": "એક તપાસ"
+ },
+ "Colours you will see": {
+  "hi": "रंग जो आपको दिखेंगे",
+  "gu": "રંગ જે તમને દેખાશે"
+ },
+ "Do it today": {
+  "hi": "आज करें",
+  "gu": "આજે કરો"
+ },
+ "It is late": {
+  "hi": "देर हो गई है",
+  "gu": "મોડું થયું છે"
+ },
+ "Comes later": {
+  "hi": "बाद में आएगा",
+  "gu": "પછી આવશે"
+ },
+ "Green card: work for today": {
+  "hi": "हरा कार्ड: आज का काम",
+  "gu": "લીલું કાર્ડ: આજનું કામ"
+ },
+ "Brown card: late work": {
+  "hi": "भूरा कार्ड: देर वाला काम",
+  "gu": "કથ્થઈ કાર્ડ: મોડું થયેલું કામ"
+ },
+ "Blue card: totals": {
+  "hi": "नीला कार्ड: कुल जोड़",
+  "gu": "વાદળી કાર્ડ: કુલ સરવાળો"
+ },
+ "Done": {
+  "hi": "हो गया",
+  "gu": "થઈ ગયું"
+ },
+ "Start": {
+  "hi": "शुरू करें",
+  "gu": "શરૂ કરો"
+ },
+ "All names here are made up for practice. Nothing you do on this page reaches the real app or the server.": {
+  "hi": "यहाँ के सारे नाम प्रैक्टिस के लिए बनाए गए हैं। इस पेज पर आप जो भी करें, वह असली ऐप या सर्वर तक नहीं जाता।",
+  "gu": "અહીંનાં બધાં નામ પ્રેક્ટિસ માટે બનાવેલાં છે. આ પેજ પર તમે જે કંઈ કરો, તે સાચી એપ કે સર્વર સુધી જતું નથી."
+ },
+ "What we added beyond the scoping": {
+  "hi": "स्कोपिंग से आगे हमने क्या जोड़ा",
+  "gu": "સ્કોપિંગથી આગળ અમે શું ઉમેર્યું"
+ },
+ "Desai Foundation Trust gave us a Scoping Document, a Modelling sheet and a Forms sheet. Below is everything Samanvay built on top of them, so the app is safer and easier for staff.": {
+  "hi": "Desai Foundation Trust ने हमें एक Scoping Document, एक Modelling शीट और एक Forms शीट दी थी। नीचे वह सब है जो Samanvay ने उनके ऊपर बनाया, ताकि ऐप ज़्यादा सुरक्षित और स्टाफ़ के लिए आसान बने।",
+  "gu": "Desai Foundation Trust એ અમને એક Scoping Document, એક Modelling શીટ અને એક Forms શીટ આપી હતી. નીચે એ બધું છે જે Samanvay એ તેના ઉપર બનાવ્યું, જેથી એપ વધુ સલામત અને સ્ટાફ માટે સરળ બને."
+ },
+ "enhancements in all": {
+  "hi": "कुल सुधार",
+  "gu": "કુલ સુધારા"
+ },
+ "live on the UAT app": {
+  "hi": "UAT ऐप पर चालू",
+  "gu": "UAT એપ પર ચાલુ"
+ },
+ "areas of the app": {
+  "hi": "ऐप के हिस्से",
+  "gu": "એપના ભાગ"
+ },
+ "All": {
+  "hi": "सभी",
+  "gu": "બધા"
+ },
+ "Asked": {
+  "hi": "माँगा गया",
+  "gu": "માંગેલું"
+ },
+ "Built": {
+  "hi": "बनाया गया",
+  "gu": "બનાવેલું"
+ },
+ "Rows are in English, as they will be shared with DFT. The same list is in the Excel file Desai-Avni-Enhancements.xlsx.": {
+  "hi": "लाइनें अंग्रेज़ी में हैं, क्योंकि ये DFT के साथ शेयर होंगी। यही लिस्ट Excel फ़ाइल Desai-Avni-Enhancements.xlsx में भी है।",
+  "gu": "લાઇનો અંગ્રેજીમાં છે, કારણ કે તે DFT સાથે શેર થશે. આ જ યાદી Excel ફાઇલ Desai-Avni-Enhancements.xlsx માં પણ છે."
+ },
+ "Guide": {
+  "hi": "गाइड",
+  "gu": "ગાઇડ"
+ },
+ "See what you learnt": {
+  "hi": "देखें आपने क्या सीखा",
+  "gu": "જુઓ તમે શું શીખ્યા"
+ },
+ "practice app": {
+  "hi": "प्रैक्टिस ऐप",
+  "gu": "પ્રેક્ટિસ એપ"
+ },
+ "Free explore: tap anything on the phone.": {
+  "hi": "ख़ुद घूमकर देखें: फ़ोन पर कुछ भी टैप करें।",
+  "gu": "જાતે ફરીને જુઓ: ફોન પર કંઈ પણ ટેપ કરો."
+ },
+ "Choose a lesson to begin.": {
+  "hi": "शुरू करने के लिए कोई पाठ चुनें।",
+  "gu": "શરૂ કરવા માટે કોઈ પાઠ પસંદ કરો."
+ },
+ "Lessons": {
+  "hi": "पाठ",
+  "gu": "પાઠ"
+ },
+ "Register the person": {
+  "hi": "व्यक्ति को रजिस्टर करें",
+  "gu": "વ્યક્તિને રજિસ્ટર કરો"
+ },
+ "Consent first. Name, age, village, phone number.": {
+  "hi": "पहले सहमति। फिर नाम, उम्र, गाँव, फ़ोन नंबर।",
+  "gu": "પહેલાં સંમતિ. પછી નામ, ઉંમર, ગામ, ફોન નંબર."
+ },
+ "Consent given?": {
+  "hi": "सहमति मिली?",
+  "gu": "સંમતિ મળી?"
+ },
+ "No consent: the app offers no forms for this person.": {
+  "hi": "सहमति नहीं: ऐप इस व्यक्ति के लिए कोई फ़ॉर्म नहीं देता।",
+  "gu": "સંમતિ નહીં: એપ આ વ્યક્તિ માટે કોઈ ફોર્મ આપતી નથી."
+ },
+ "Health Camp visit": {
+  "hi": "हेल्थ कैंप विज़िट",
+  "gu": "હેલ્થ કેમ્પ વિઝિટ"
+ },
+ "Camp type, partner, why the person came.": {
+  "hi": "कैंप का टाइप, पार्टनर, व्यक्ति क्यों आया।",
+  "gu": "કેમ્પનો પ્રકાર, પાર્ટનર, વ્યક્તિ કેમ આવી."
+ },
+ "Screening": {
+  "hi": "स्क्रीनिंग",
+  "gu": "સ્ક્રીનિંગ"
+ },
+ "What was checked, what was found, referral, follow-up needed.": {
+  "hi": "क्या जाँचा, क्या मिला, रेफ़रल, फ़ॉलो-अप चाहिए या नहीं।",
+  "gu": "શું તપાસ્યું, શું મળ્યું, રેફરલ, ફોલો-અપ જોઈએ કે નહીં."
+ },
+ "Health follow-up is planned": {
+  "hi": "हेल्थ फ़ॉलो-अप प्लान हो जाता है",
+  "gu": "હેલ્થ ફોલો-અપ પ્લાન થઈ જાય છે"
+ },
+ "Due 30 days later. Up to 4 follow-ups, one after another.": {
+  "hi": "30 दिन बाद करना है। एक के बाद एक, 4 फ़ॉलो-अप तक।",
+  "gu": "30 દિવસ પછી કરવાનું છે. એક પછી એક, 4 ફોલો-અપ સુધી."
+ },
+ "Fill the Health Follow-up": {
+  "hi": "हेल्थ फ़ॉलो-अप भरें",
+  "gu": "હેલ્થ ફોલો-અપ ભરો"
+ },
+ "Did the person follow the treatment or the referral?": {
+  "hi": "क्या व्यक्ति ने इलाज या रेफ़रल की बात मानी?",
+  "gu": "શું વ્યક્તિએ સારવાર કે રેફરલની વાત માની?"
+ },
+ "Referral not followed shows on a card": {
+  "hi": "जिस रेफ़रल पर व्यक्ति नहीं गया, वह कार्ड पर दिखता है",
+  "gu": "જે રેફરલ પર વ્યક્તિ ગઈ નથી, તે કાર્ડ પર દેખાય છે"
+ },
+ "Your coordinator sees who needs a push.": {
+  "hi": "आपके कोऑर्डिनेटर देखते हैं कि किसे थोड़ा ज़ोर देकर समझाना है।",
+  "gu": "તમારા કોઓર્ડિનેટર જુએ છે કે કોને થોડું સમજાવવાની જરૂર છે."
+ },
+ "Create the batch": {
+  "hi": "बैच बनाएँ",
+  "gu": "બેચ બનાવો"
+ },
+ "The app adds the course and month to the name, and works out the last class day.": {
+  "hi": "ऐप नाम में कोर्स और महीना जोड़ता है, और आख़िरी क्लास का दिन निकाल देता है।",
+  "gu": "એપ નામમાં કોર્સ અને મહિનો ઉમેરે છે, અને છેલ્લા ક્લાસનો દિવસ ગણી આપે છે."
+ },
+ "Add students": {
+  "hi": "विद्यार्थी जोड़ें",
+  "gu": "વિદ્યાર્થી ઉમેરો"
+ },
+ "The app checks consent, age and that the batch has not ended.": {
+  "hi": "ऐप सहमति, उम्र, और यह जाँचता है कि बैच ख़त्म तो नहीं हुआ।",
+  "gu": "એપ સંમતિ, ઉંમર, અને બેચ પૂરો તો નથી થયો એ તપાસે છે."
+ },
+ "Livelihood Event and Baseline": {
+  "hi": "Livelihood Event और बेसलाइन",
+  "gu": "Livelihood Event અને બેઝલાઇન"
+ },
+ "Intake answers and the pre-test score.": {
+  "hi": "दाख़िले के जवाब और प्री-टेस्ट का स्कोर।",
+  "gu": "પ્રવેશ વખતના જવાબ અને પ્રી-ટેસ્ટનો સ્કોર."
+ },
+ "Mark attendance every class day": {
+  "hi": "हर क्लास वाले दिन हाज़िरी लगाएँ",
+  "gu": "દરેક ક્લાસના દિવસે હાજરી પૂરો"
+ },
+ "Sewing, Computer, Beautician and Summer Camp only. Monday to Saturday.": {
+  "hi": "सिर्फ़ सिलाई, कंप्यूटर, ब्यूटीशियन और समर कैंप। सोमवार से शनिवार।",
+  "gu": "ફક્ત સિલાઈ, કમ્પ્યુટર, બ્યુટીશિયન અને સમર કેમ્પ. સોમવારથી શનિવાર."
+ },
+ "Endline": {
+  "hi": "एंडलाइन",
+  "gu": "એન્ડલાઇન"
+ },
+ "Post-test score and the outcome.": {
+  "hi": "पोस्ट-टेस्ट का स्कोर और नतीजा।",
+  "gu": "પોસ્ટ-ટેસ્ટનો સ્કોર અને પરિણામ."
+ },
+ "Monthly Livelihood follow-ups are planned": {
+  "hi": "हर महीने के लाइवलीहुड फ़ॉलो-अप प्लान हो जाते हैं",
+  "gu": "દર મહિનાનાં લાઇવલીહુડ ફોલો-અપ પ્લાન થઈ જાય છે"
+ },
+ "For a year after a completed course.": {
+  "hi": "कोर्स पूरा होने के बाद एक साल तक।",
+  "gu": "કોર્સ પૂરો થયા પછી એક વર્ષ સુધી."
+ },
+ "Record the Event Matrix": {
+  "hi": "Event Matrix भरें",
+  "gu": "Event Matrix ભરો"
+ },
+ "Programme, date, people reached, money, volunteers, in-kind.": {
+  "hi": "प्रोग्राम, तारीख, कितने लोगों तक पहुँचे, पैसा, वॉलंटियर, सामान के रूप में मदद।",
+  "gu": "પ્રોગ્રામ, તારીખ, કેટલા લોકો સુધી પહોંચ્યા, પૈસા, વોલન્ટિયર, વસ્તુ રૂપે મદદ."
+ },
+ "The app works out the totals": {
+  "hi": "कुल जोड़ ऐप ख़ुद निकालता है",
+  "gu": "કુલ સરવાળો એપ જાતે ગણે છે"
+ },
+ "Name, children total, All Impacted, indirect people, rupees to dollars.": {
+  "hi": "नाम, कुल बच्चे, All Impacted, अप्रत्यक्ष लोग, रुपये से डॉलर।",
+  "gu": "નામ, કુલ બાળકો, All Impacted, આડકતરા લોકો, રૂપિયાથી ડોલર."
+ },
+ "Draft or Submitted?": {
+  "hi": "Draft या Submitted?",
+  "gu": "Draft કે Submitted?"
+ },
+ "Submitted locks the event. Drafts older than 7 days show on a card.": {
+  "hi": "Submitted करने पर इवेंट लॉक हो जाता है। 7 दिन से पुराने Draft एक कार्ड पर दिखते हैं।",
+  "gu": "Submitted કરો તો ઇવેન્ટ લૉક થઈ જાય છે. 7 દિવસથી જૂના Draft એક કાર્ડ પર દેખાય છે."
+ },
+ "Management plans each year; reports compare plan and actual.": {
+  "hi": "मैनेजमेंट हर साल का प्लान बनाता है; रिपोर्ट में प्लान और असल काम की तुलना होती है।",
+  "gu": "મેનેજમેન્ટ દર વર્ષનો પ્લાન બનાવે છે; રિપોર્ટમાં પ્લાન અને ખરેખર થયેલા કામની સરખામણી થાય છે."
+ },
+ "Record": {
+  "hi": "रिकॉर्ड (Record)",
+  "gu": "રેકોર્ડ (Record)"
+ },
+ "A person, a batch, an event or a plan. You register it once.": {
+  "hi": "एक व्यक्ति, बैच, इवेंट या प्लान। इसे एक ही बार रजिस्टर करते हैं।",
+  "gu": "એક વ્યક્તિ, બેચ, ઇવેન્ટ કે પ્લાન. તેને એક જ વાર રજિસ્ટર કરો છો."
+ },
+ "Form": {
+  "hi": "फ़ॉर्म (Form)",
+  "gu": "ફોર્મ (Form)"
+ },
+ "Questions you fill for a record. Some questions appear only after an answer.": {
+  "hi": "किसी रिकॉर्ड के लिए आप जो सवाल भरते हैं। कुछ सवाल किसी जवाब के बाद ही आते हैं।",
+  "gu": "કોઈ રેકોર્ડ માટે તમે જે સવાલ ભરો છો. અમુક સવાલ કોઈ જવાબ પછી જ આવે છે."
+ },
+ "Visit": {
+  "hi": "विज़िट (Visit)",
+  "gu": "વિઝિટ (Visit)"
+ },
+ "A form filled on a date: a camp, a screening, a follow-up. Some visits are planned by the app.": {
+  "hi": "किसी तारीख पर भरा गया फ़ॉर्म: कैंप, स्क्रीनिंग, फ़ॉलो-अप। कुछ विज़िट ऐप ख़ुद प्लान करता है।",
+  "gu": "કોઈ તારીખે ભરેલું ફોર્મ: કેમ્પ, સ્ક્રીનિંગ, ફોલો-અપ. અમુક વિઝિટ એપ જાતે પ્લાન કરે છે."
+ },
+ "Card": {
+  "hi": "कार्ड (Card)",
+  "gu": "કાર્ડ (Card)"
+ },
+ "A coloured box on Home. The number tells how many records wait there.": {
+  "hi": "Home पर एक रंगीन बॉक्स। नंबर बताता है कि वहाँ कितने रिकॉर्ड बाकी हैं।",
+  "gu": "Home પર એક રંગીન બોક્સ. નંબર બતાવે છે કે ત્યાં કેટલા રેકોર્ડ બાકી છે."
+ },
+ "Sync": {
+  "hi": "सिंक (Sync)",
+  "gu": "સિંક (Sync)"
+ },
+ "Sends your saved work to the server and brings new work. Needs internet.": {
+  "hi": "आपका सेव किया हुआ काम सर्वर पर भेजता है और नया काम लाता है। इंटरनेट चाहिए।",
+  "gu": "તમારું સેવ કરેલું કામ સર્વર પર મોકલે છે અને નવું કામ લાવે છે. ઇન્ટરનેટ જોઈએ."
+ },
+ "Search what we added": {
+  "hi": "हमने जो जोड़ा, उसमें खोजें",
+  "gu": "અમે જે ઉમેર્યું તેમાં શોધો"
+ },
+ "{0} of {1} shown": {
+  "hi": "{1} में से {0} दिख रहे हैं",
+  "gu": "{1} માંથી {0} દેખાય છે"
+ },
+ "No enhancement matches your search.": {
+  "hi": "आपकी खोज से कोई सुधार नहीं मिला।",
+  "gu": "તમારી શોધ સાથે કોઈ સુધારો મળ્યો નથી."
+ },
+ "Overview": {
+  "hi": "सारांश",
+  "gu": "સારાંશ"
+ },
+ "Hide": {
+  "hi": "छिपाएँ",
+  "gu": "છુપાવો"
+ },
+ "Basics": {
+  "hi": "बुनियादी बातें",
+  "gu": "મૂળ વાતો"
+ },
+ "Health": {
+  "hi": "स्वास्थ्य",
+  "gu": "આરોગ્ય"
+ },
+ "Batches": {
+  "hi": "बैच",
+  "gu": "બેચ"
+ },
+ "Events": {
+  "hi": "इवेंट",
+  "gu": "ઇવેન્ટ"
+ },
+ "Colours": {
+  "hi": "रंग",
+  "gu": "રંગ"
+ },
+ "This page counts lesson use anonymously to improve the guide. No names are collected.": {
+  "hi": "गाइड को बेहतर बनाने के लिए यह पेज पाठों का इस्तेमाल बिना नाम के गिनता है। कोई नाम नहीं लिया जाता।",
+  "gu": "ગાઇડ સુધારવા માટે આ પેજ પાઠનો ઉપયોગ નામ વગર ગણે છે. કોઈ નામ લેવાતું નથી."
+ },
+ "Enter or → also works": {
+  "hi": "Enter या → से भी चलता है",
+  "gu": "Enter અથવા → થી પણ ચાલે છે"
+ },
+ "Back": {
+  "hi": "पीछे",
+  "gu": "પાછળ"
+ },
+ "Read, then press Next": {
+  "hi": "पढ़ें, फिर Next दबाएँ",
+  "gu": "વાંચો, પછી Next દબાવો"
+ },
+ "Tap the glowing part, or press Do it for me": {
+  "hi": "चमकते हिस्से पर टैप करें, या Do it for me दबाएँ",
+  "gu": "ચમકતા ભાગ પર ટેપ કરો, અથવા Do it for me દબાવો"
+ },
+ "Read the step. Press **Next** when it is only to read.": {
+  "hi": "स्टेप पढ़ें। जब सिर्फ़ पढ़ना हो, तो **Next** दबाएँ।",
+  "gu": "સ્ટેપ વાંચો. જ્યારે ફક્ત વાંચવાનું હોય ત્યારે **Next** દબાવો."
+ },
+ "Tap the glowing part on the phone, or press **Do it for me**.": {
+  "hi": "फ़ोन पर चमकते हिस्से पर टैप करें, या **Do it for me** दबाएँ।",
+  "gu": "ફોન પર ચમકતા ભાગ પર ટેપ કરો, અથવા **Do it for me** દબાવો."
+ },
+ "Press **Back** to see the previous step again.": {
+  "hi": "पिछला स्टेप फिर से देखने के लिए **Back** दबाएँ।",
+  "gu": "પાછલું સ્ટેપ ફરી જોવા માટે **Back** દબાવો."
+ },
+ "Start each day with **Attendance Mark** and **Do first**.": {
+  "hi": "हर दिन की शुरुआत **उपस्थिति दर्ज** और **पहले करें** से करें।",
+  "gu": "દરેક દિવસની શરૂઆત **હાજરી ચિહ્નિત કરો** અને **પહેલા કરો** થી કરો."
+ },
+ "**Attendance Mark** lists the batches whose class today is not marked yet, and batches with a class in the last 3 days that was never marked.": {
+  "hi": "**उपस्थिति दर्ज** में वे बैच दिखते हैं जिनकी आज की कक्षा अभी दर्ज नहीं हुई, और वे बैच जिनकी पिछले 3 दिन की कक्षा कभी दर्ज नहीं हुई।",
+  "gu": "**હાજરી ચિહ્નિત કરો** માં એ બેચ દેખાય છે જેના આજના વર્ગની હાજરી હજુ ચિહ્નિત નથી, અને છેલ્લા 3 દિવસમાં જેના વર્ગની હાજરી ક્યારેય ચિહ્નિત થઈ નથી."
+ },
+ "If someone with the same name and a similar age is already registered in the village, the app asks if this is a different person.": {
+  "hi": "अगर इसी नाम और लगभग इसी उम्र का कोई व्यक्ति गाँव में पहले से रजिस्टर है, तो ऐप पूछता है कि क्या यह कोई दूसरा व्यक्ति है।",
+  "gu": "જો ગામમાં આ જ નામ અને લગભગ આ ઉંમરની વ્યક્તિ પહેલેથી નોંધાયેલ હોય, તો એપ પૂછે છે કે શું આ બીજી વ્યક્તિ છે."
+ },
+ "Gynec is hidden for men; Bal Health Mela is hidden for adults.": {
+  "hi": "Gynec पुरुषों के लिए नहीं दिखता; Bal Health Mela वयस्कों के लिए नहीं दिखता।",
+  "gu": "Gynec પુરૂષો માટે દેખાતું નથી; Bal Health Mela પુખ્તો માટે દેખાતું નથી."
+ },
+ "Fills itself: the next number after today's highest token on this phone. You can type a different one.": {
+  "hi": "अपने आप भरता है: इस फ़ोन पर आज के सबसे बड़े टोकन के बाद का नंबर। आप दूसरा नंबर भी लिख सकते हैं।",
+  "gu": "જાતે ભરાય છે: આ ફોન પર આજના સૌથી મોટા ટોકન પછીનો નંબર. તમે બીજો નંબર લખી શકો છો."
+ },
+ "Token numbers fill themselves": {
+  "hi": "टोकन नंबर अपने आप भरते हैं",
+  "gu": "ટોકન નંબર જાતે ભરાય છે"
+ },
+ "SAVE: the follow-up is done": {
+  "hi": "सेव: फ़ॉलो-अप पूरा हुआ",
+  "gu": "સાચવો: ફોલો-અપ પૂર્ણ"
+ },
+ "One health follow-up, a month after the screening.": {
+  "hi": "स्क्रीनिंग के एक महीने बाद एक स्वास्थ्य फ़ॉलो-अप।",
+  "gu": "સ્ક્રીનિંગના એક મહિના પછી એક આરોગ્ય ફોલો-અપ."
+ },
+ "If the person was not available, cancel it: the app plans it once more.": {
+  "hi": "अगर व्यक्ति उपलब्ध नहीं था, तो इसे कॅन्सल करें: ऐप इसे एक बार फिर प्लान करता है।",
+  "gu": "જો વ્યક્તિ હાજર ન હોય, તો તેને રદ કરો: એપ તેને ફરી એક વાર આયોજિત કરે છે."
+ },
+ "Saved. There is one **Health Follow-up** after a screening, a month later, so nothing more is planned. A new screening plans a new one.": {
+  "hi": "सेव हो गया। स्क्रीनिंग के एक महीने बाद एक ही **स्वास्थ्य फ़ॉलो-अप** होता है, इसलिए आगे कुछ प्लान नहीं होता। नई स्क्रीनिंग से नया फ़ॉलो-अप प्लान होता है।",
+  "gu": "સાચવાયું. સ્ક્રીનિંગ પછી એક મહિને એક જ **આરોગ્ય ફોલો-અપ** હોય છે, તેથી વધુ કંઈ આયોજિત થતું નથી. નવું સ્ક્રીનિંગ નવું ફોલો-અપ આયોજિત કરે છે."
+ },
+ "One follow-up each": {
+  "hi": "हर एक का एक फ़ॉलो-अप",
+  "gu": "દરેક માટે એક ફોલો-અપ"
+ },
+ "Moved away, died or refused: no new visit. Person not available: the follow-up is planned once more.": {
+  "hi": "कहीं चले गए, मृत्यु हुई या मना किया: कोई नई विज़िट नहीं। व्यक्ति उपलब्ध नहीं: फ़ॉलो-अप एक बार फिर प्लान होता है।",
+  "gu": "બીજે રહેવા ગયા, મૃત્યુ થયું કે ના પાડી: નવી મુલાકાત નહીં. વ્યક્તિ હાજર નથી: ફોલો-અપ ફરી એક વાર આયોજિત થાય છે."
+ },
+ "Endline and the follow-up": {
+  "hi": "एंडलाइन और फ़ॉलो-अप",
+  "gu": "એન્ડલાઇન અને ફોલો-અપ"
+ },
+ "Final score, outcome; the app plans a follow-up 3 months later.": {
+  "hi": "अंतिम स्कोर, परिणाम; ऐप 3 महीने बाद फ़ॉलो-अप प्लान करता है।",
+  "gu": "અંતિમ સ્કોર, પરિણામ; એપ 3 મહિના પછી ફોલો-અપ આયોજિત કરે છે."
+ },
+ "Outcome Completed: a follow-up 3 months later": {
+  "hi": "परिणाम पूर्ण: 3 महीने बाद फ़ॉलो-अप",
+  "gu": "પરિણામ પૂર્ણ: 3 મહિના પછી ફોલો-અપ"
+ },
+ "Choose the outcome carefully: only Completed plans the follow-up.": {
+  "hi": "परिणाम ध्यान से चुनें: सिर्फ़ पूर्ण चुनने पर फ़ॉलो-अप प्लान होता है।",
+  "gu": "પરિણામ ધ્યાનથી પસંદ કરો: ફક્ત પૂર્ણ પસંદ કરવાથી ફોલો-અપ આયોજિત થાય છે."
+ },
+ "Completed plans one Livelihood Follow-up, 3 months later.": {
+  "hi": "पूर्ण चुनने पर 3 महीने बाद एक आजीविका फ़ॉलो-अप प्लान होता है।",
+  "gu": "પૂર્ણ પસંદ કરવાથી 3 મહિના પછી એક આજીવિકા ફોલો-અપ આયોજિત થાય છે."
+ },
+ "The **Livelihood Follow-up** is planned 3 months from today.": {
+  "hi": "**आजीविका फ़ॉलो-अप** आज से 3 महीने बाद प्लान होता है।",
+  "gu": "**આજીવિકા ફોલો-અપ** આજથી 3 મહિના પછી આયોજિત થાય છે."
+ },
+ "SAVE: done, nothing more planned": {
+  "hi": "सेव: पूरा, आगे कुछ प्लान नहीं",
+  "gu": "સાચવો: પૂર્ણ, વધુ કંઈ આયોજિત નથી"
+ },
+ "Dollar amounts are worked out from the rupee rate. Expense month fills itself from the event date.": {
+  "hi": "डॉलर की रकम रुपये की दर से निकाली जाती है। खर्च का महीना कार्यक्रम की तारीख से अपने आप भरता है।",
+  "gu": "ડોલરની રકમ રૂપિયાના દરથી ગણાય છે. ખર્ચનો મહિનો કાર્યક્રમની તારીખથી જાતે ભરાય છે."
+ },
+ "Same name, village and age: the app asks before saving.": {
+  "hi": "एक ही नाम, गाँव और उम्र: ऐप सेव करने से पहले पूछता है।",
+  "gu": "સમાન નામ, ગામ અને ઉંમર: એપ સાચવતા પહેલા પૂછે છે."
+ },
+ "Same name, village, similar age": {
+  "hi": "एक ही नाम, गाँव, लगभग वही उम्र",
+  "gu": "સમાન નામ, ગામ, લગભગ સમાન ઉંમર"
+ },
+ "The app asks: a different person?": {
+  "hi": "ऐप पूछता है: क्या यह दूसरा व्यक्ति है?",
+  "gu": "એપ પૂછે છે: બીજી વ્યક્તિ છે?"
+ },
+ "No: go back and search instead": {
+  "hi": "नहीं: वापस जाकर सर्च करें",
+  "gu": "ના: પાછા જાઓ અને શોધો"
+ },
+ "Answer **Yes** only when it really is another person with the same name.": {
+  "hi": "**हाँ** तभी चुनें जब सच में उसी नाम का कोई दूसरा व्यक्ति हो।",
+  "gu": "ફક્ત ત્યારે જ **હા** જવાબ આપો જ્યારે ખરેખર એ જ નામની બીજી વ્યક્તિ હોય."
+ },
+ "Coordinators see the rest on the **Possible duplicates** card.": {
+  "hi": "बाकी को कोऑर्डिनेटर **संभावित डुप्लिकेट** कार्ड पर देखते हैं।",
+  "gu": "બાકીના કોઓર્ડિનેટરને **સંભવિત ડુપ્લિકેટ** કાર્ડ પર દેખાય છે."
+ },
+ "This question appears only because **Asha Patel**, aged 32, is already registered in Agasi. The phone number does not matter.": {
+  "hi": "यह सवाल सिर्फ़ इसलिए दिख रहा है क्योंकि **Asha Patel**, उम्र 32, Agasi में पहले से रजिस्टर है। फ़ोन नंबर से कोई फ़र्क नहीं पड़ता।",
+  "gu": "આ પ્રશ્ન ફક્ત એટલા માટે દેખાય છે કે 32 વર્ષની **Asha Patel** Agasi માં પહેલેથી નોંધાયેલ છે. ફોન નંબરથી કોઈ ફરક પડતો નથી."
+ },
+ "You answered **No**: it is the same person, so the app stops you from saving a second record.": {
+  "hi": "आपने **नहीं** चुना: यह वही व्यक्ति है, इसलिए ऐप दूसरा रिकॉर्ड सेव नहीं करने देता।",
+  "gu": "તમે **ના** જવાબ આપ્યો: આ એ જ વ્યક્તિ છે, તેથી એપ બીજો રેકોર્ડ સાચવવા દેતી નથી."
+ },
+ "Same name check": {
+  "hi": "एक ही नाम की जाँच",
+  "gu": "સમાન નામની તપાસ"
+ },
+ "One follow-up, due 30 days later.": {
+  "hi": "एक फ़ॉलो-अप, 30 दिन बाद।",
+  "gu": "એક ફોલો-અપ, 30 દિવસ પછી."
+ },
+ "A Livelihood follow-up is planned": {
+  "hi": "एक आजीविका फ़ॉलो-अप प्लान हुआ",
+  "gu": "આજીવિકા ફોલો-અપ આયોજિત થયું"
+ },
+ "One follow-up, 3 months after a completed course.": {
+  "hi": "एक फ़ॉलो-अप, कोर्स पूरा होने के 3 महीने बाद।",
+  "gu": "કોર્સ પૂર્ણ થયાના 3 મહિના પછી એક ફોલો-અપ."
+ }
+}

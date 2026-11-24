@@ -1,0 +1,882 @@
+[
+ {
+  "area": "Registration",
+  "enhancement": "Consent comes first",
+  "what_dft_asked": "Consent as a video and an image, both required. Nothing on what happens if a person refuses.",
+  "source": "Forms, Beneficiary Registration rows 5-6",
+  "what_we_built": "If consent is No, the rest of the registration is skipped, no visit forms are offered for that person, and they cannot be added to any batch.",
+  "benefit": "Staff cannot record data about someone who has not agreed, which protects the person and DFT.",
+  "where_in_app": "Beneficiary Registration; New Form list on the person; Add Member on a batch",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Registration",
+  "enhancement": "Mobile number check",
+  "what_dft_asked": "Contact number as a 10-digit phone number.",
+  "source": "Forms, Beneficiary Registration row 13",
+  "what_we_built": "Accepts only a 10-digit Indian mobile number starting with 6, 7, 8 or 9. Short numbers, +91, spaces and landlines are refused with one clear message.",
+  "benefit": "Numbers saved in the app can actually be called for follow-up.",
+  "where_in_app": "Beneficiary Registration, Contact page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Registration",
+  "enhancement": "Duplicate person check",
+  "what_dft_asked": "21 Nov: phone number alone cannot identify a person; please suggest how duplicates are found.",
+  "source": "Client UAT points, 21 Nov 2026 (point 5)",
+  "what_we_built": "On the phone, if someone with the same first and last name in the same village, born within 2 years, is already registered, the form asks 'Is this a different person?', whatever the phone number. 'No' stops the save. The older check (same name, village and number) stays.",
+  "benefit": "The same woman or child is not counted twice in DFT's numbers.",
+  "where_in_app": "Beneficiary Registration, Contact page (phone only)",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Registration",
+  "enhancement": "Class list follows education",
+  "what_dft_asked": "Std (Class) shown for school-going children aged 3 to 17, with the full list Pre-primary to Std 12.",
+  "source": "Forms, Beneficiary Registration row 15",
+  "what_we_built": "The class question is hidden for Illiterate, Graduate and Post-graduate. Primary shows Std 1 to 5, Secondary Std 6 to 10, Higher Secondary Std 11 to 12.",
+  "benefit": "Impossible answers, such as a graduate in Std 3, cannot be entered.",
+  "where_in_app": "Beneficiary Registration, Education Details page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Registration",
+  "enhancement": "Person summary on the profile",
+  "what_dft_asked": "The Project Tracker lists a 'Summary' task, with no detail.",
+  "source": "Scoping, Project Tracker row 30",
+  "what_we_built": "Each person's page shows their latest programme with its date, last visit, next planned visit, last health camp and next follow-up.",
+  "benefit": "Staff see where a person stands without opening every visit.",
+  "where_in_app": "Person profile page, summary at the top",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Health camp",
+  "enhancement": "Camp types that fit the person",
+  "what_dft_asked": "Camp type picked from a list. No check against the person.",
+  "source": "Forms, Health Camp row 3; Screening row 3",
+  "what_we_built": "Gynec is hidden for men. Bal Health Mela is hidden for people aged 18 and over. Pediatric is no longer a camp type (19 Nov), and Vision Center now shows as Vision Care. This applies on Health Camp and on Screening; if one is already picked, the form says the camp is not for this person.",
+  "benefit": "A husband or parent who came along is not counted as a patient, so women's and children's health numbers stay honest.",
+  "where_in_app": "Health Camp, Camp Type; Screening, Screening for",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Health camp",
+  "enhancement": "Same-day double entry blocked",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "The same camp type, or the same screening type, twice for one person on one day is refused, with a message to open the first entry and edit it.",
+  "benefit": "Stops double counting when two staff, or one staff member twice, enter the same visit.",
+  "where_in_app": "Health Camp and Screening forms",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Health camp",
+  "enhancement": "Screening type fills itself from the camp",
+  "what_dft_asked": "Screening type picked by hand.",
+  "source": "Forms, Screening row 3",
+  "what_we_built": "When the person already has a Health Camp entry, the Screening form opens with the same camp type chosen.",
+  "benefit": "Saves a step at the screening booth and avoids a camp and screening that do not match.",
+  "where_in_app": "Screening, first page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Health camp",
+  "enhancement": "One question per topic across all camp types",
+  "what_dft_asked": "The same questions repeated on each camp page, for example 'Have you received a check-up before?' asked separately for 9 camp types.",
+  "source": "Forms, Health Camp rows 7-21; Screening rows 4-45",
+  "what_we_built": "Each repeated question is asked once: 'Have you received this check-up before?', 'Last doctor visit' and 'Family members' on Health Camp, and one 'Was a referral made?' on Screening, shown for the camp types that need it.",
+  "benefit": "Reports read one answer instead of nine, so totals across camp types are simple and correct.",
+  "where_in_app": "Health Camp, Camp Details page; Screening, Outcome page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Health camp",
+  "enhancement": "Low haemoglobin highlighted",
+  "what_dft_asked": "Hb level as a number, with no range.",
+  "source": "Forms, Screening row 18",
+  "what_we_built": "Hb level accepts 4 to 18 g/dL. Values outside 12 to 16 are marked as abnormal, so low Hb shows in red.",
+  "benefit": "Women with anaemia stand out at once for referral.",
+  "where_in_app": "Screening, Anemia page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Screening & follow-up",
+  "enhancement": "One health follow-up after a screening",
+  "what_dft_asked": "Follow-up monthly for 3 to 4 months; on 20 Nov DFT set it to one follow-up after 1 month.",
+  "source": "Client email, 20 Nov 2026",
+  "what_we_built": "A Screening marked 'Follow-up needed: Yes' plans one Health Follow-up 30 to 45 days later. Nothing more is planned after it; a new Screening plans a new one.",
+  "benefit": "Staff follow up each screening once, as DFT decided.",
+  "where_in_app": "Screening (Outcome page); Planned visits; follow-up cards",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Screening & follow-up",
+  "enhancement": "Cancel a planned visit with a reason",
+  "what_dft_asked": "A 'Cancellation Form' column exists, left blank for every visit.",
+  "source": "Modelling, Encounters (Cancellation Form column)",
+  "what_we_built": "Every planned visit can be cancelled with a reason (not available, moved away, refused, died, not needed, other). A follow-up cancelled because the person was not available is planned once more; a cancelled Baseline or Endline is planned again a week later. If the person died, moved away or refused, nothing new is planned.",
+  "benefit": "No one silently drops off the lists, and no one is chased after they have left.",
+  "where_in_app": "Cancel on any planned visit",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "Batch start date and last class day",
+  "what_dft_asked": "Batch registration with default questions only.",
+  "source": "Forms, each batch registration sheet ('Only Default Question'); Modelling, Subject Types rows 5-18",
+  "what_we_built": "Every batch has a Start date (the registration date unless changed) and a Last class day worked out from the course length, counting Monday to Saturday. Both can be changed; a last day before the start is refused.",
+  "benefit": "Cards, attendance and joining rules all know when a batch is running.",
+  "where_in_app": "Every batch registration, Batch details page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "Batch names fill themselves",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "The name box fills with 'Course - Month Year - ' as soon as the form opens; staff add the village or a label, for example 'Summer Camp - May 2026 - Agasi'. Help text explains this, and an edited name is not prefixed twice.",
+  "benefit": "Batches are easy to tell apart and are named the same way everywhere.",
+  "where_in_app": "Every batch registration, name box",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "No two batches with the same name",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "A second batch with a name already in use is refused.",
+  "benefit": "Staff cannot add students or mark attendance on the wrong batch by mistake.",
+  "where_in_app": "Every batch registration",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "Ended batches take no new students",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "On the phone, a batch more than 3 days past its last class day refuses new members and shows the date it ended.",
+  "benefit": "Students cannot be added to last month's camp by mistake.",
+  "where_in_app": "Add Member on a batch",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "Batch joining checks consent and age",
+  "what_dft_asked": "An eligibility note: 'age 18+ for most skill courses'. No check asked.",
+  "source": "Scoping, Project Summary row 28",
+  "what_we_built": "A person who refused consent cannot join any batch. Livelihood batches and the Livelihood Event accept people aged 15 and above only. Education batches and health have no age limit.",
+  "benefit": "Children cannot be added to a sewing batch by mistake. DFT should confirm 15 or 18 as the limit.",
+  "where_in_app": "Add Member on livelihood batches; Livelihood Event",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "Batch page summary",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "For Sewing, Computer, Beautician and Summer Camp batches the page shows classes held, the last class day, and students below 75% attendance after 4 classes, counted from each student's join date. Other batches show the last class day.",
+  "benefit": "Trainers can help weak attenders before the Endline.",
+  "where_in_app": "Batch profile page, summary at the top",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "Selection score works itself out",
+  "what_dft_asked": "The scoring questions, with no score field. DFT's points table sits in its Livelihood template.",
+  "source": "Forms, Livelihood Event rows 10-17",
+  "what_we_built": "When staff choose to fill the Scoring Matrix, the app adds the points for income, assets, dependents, permission to go out and reason for joining. The score cannot be typed; lowest is selected first.",
+  "benefit": "Fair, consistent trainee selection with no hand arithmetic.",
+  "where_in_app": "Livelihood Event, Scoring Matrix page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "Household income cannot be below own income",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "If a person's own income is above ₹20,000, a household income of up to ₹12,000 is refused.",
+  "benefit": "Catches a common slip that would distort the selection score and income reports.",
+  "where_in_app": "Livelihood Event, Beneficiary Intake page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "Asani 'Not Confirm' stops the training steps",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "For Asani, choosing 'Not Confirm' hides 'Selected for training', so no Baseline is planned for someone who did not confirm.",
+  "benefit": "No contradictory records and no visits planned for people who are not joining.",
+  "where_in_app": "Livelihood Event, Selection page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "Baseline planned only for selected trainees",
+  "what_dft_asked": "Baseline as a scheduled visit at the beginning of the programme.",
+  "source": "Modelling, Encounters row 8; Scoping, W3H row 26",
+  "what_we_built": "A Baseline is planned within 7 days only when a person is 'Selected for training' at a Livelihood Event, or after an Education Event. It is offered once per programme round.",
+  "benefit": "Staff test only the people who are actually joining, and never twice.",
+  "where_in_app": "Livelihood Event; Education Event; Planned visits",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "Endline timed to the end of each course",
+  "what_dft_asked": "Endline as a scheduled visit at the 'End'.",
+  "source": "Modelling, Encounters row 9; Scoping, W3H row 27",
+  "what_we_built": "After a Baseline, the Endline is planned for the course's last day using each course's length (for example 90 days for Sewing, 5 for Summer Camp). It is offered once per Baseline.",
+  "benefit": "The post-test is due exactly when the course ends, so it is not forgotten or done twice.",
+  "where_in_app": "Baseline; Planned visits; Endlines due card",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "Livelihood follow-up only for graduates",
+  "what_dft_asked": "Monthly after training (Notes) or quarterly for a year (W3H); on 20 Nov DFT set it to one follow-up after 3 months.",
+  "source": "Client email, 20 Nov 2026",
+  "what_we_built": "One Livelihood Follow-up is planned 3 months (90 to 105 days) after an Endline marked 'Completed' on a livelihood course. Drop-outs and education programmes get none.",
+  "benefit": "Staff follow up the people who finished, once, at the time DFT asked.",
+  "where_in_app": "Endline; Planned visits; Livelihood follow-up cards",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Livelihood & education batches",
+  "enhancement": "Baseline and Endline cannot be saved empty",
+  "what_dft_asked": "Knowledge level and confidence optional.",
+  "source": "Forms, Baseline rows 5-6; Endline rows 6-7",
+  "what_we_built": "Knowledge level and confidence are required. If the Baseline had a test score, the Endline must have one too.",
+  "benefit": "Every course has a before-and-after measure for donor reports.",
+  "where_in_app": "Baseline and Endline forms",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Attendance",
+  "enhancement": "Avni Attendance roster instead of a form",
+  "what_dft_asked": "A Daily Attendance form with Present and Absent lists, filled daily on all 14 batch types.",
+  "source": "Forms, Daily Attendance rows 3-7; Modelling, Encounters row 10",
+  "what_we_built": "Classes are marked on Avni's Attendance screen: one roster with Present or Absent for each student, a reason for each absent student, one class per batch per day, and students counted only from their join date. Old attendance forms stay readable. Limited to Sewing, Computer, Beautician and Summer Camp by DFT's change request of 18 Nov.",
+  "benefit": "Marking takes fewer taps, mistakes are harder, and attendance per student is exact.",
+  "where_in_app": "Batch page, Attendance button",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Attendance",
+  "enhancement": "'Class did not happen' with a reason",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "A trainer can record that a class did not happen, with a reason: Holiday, Festival, Trainer not available, Weather, Venue not available or Other. It counts as marked but not as a class held.",
+  "benefit": "Cancelled classes do not show as missed work or lower anyone's attendance.",
+  "where_in_app": "Attendance screen",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Attendance",
+  "enhancement": "Class calendar, Monday to Saturday",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "Classes run Monday to Saturday with Sunday off. Holidays can be added to the calendar.",
+  "benefit": "Sundays are never counted as missed classes.",
+  "where_in_app": "Attendance screen date strip",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Attendance",
+  "enhancement": "Share the day's attendance",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "After marking, the trainer can share a short text: batch, date, present and absent counts, and the absent students with their reasons, for example on WhatsApp.",
+  "benefit": "Coordinators get the day's attendance without a phone call.",
+  "where_in_app": "Attendance screen, after saving (Android)",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Attendance",
+  "enhancement": "'Classes to mark today' card",
+  "what_dft_asked": "Two standard cards: 'Daily Attendance - Livelihood Training Due' and 'Education Training Due'.",
+  "source": "Scoping, Mobile Dashboards rows 10-11",
+  "what_we_built": "One card lists every running batch with a class today that is not yet marked; marking a class removes it. Nothing shows on Sundays, and ended batches drop off.",
+  "benefit": "The trainer's first screen says exactly which classes still need marking.",
+  "where_in_app": "Home, 'Attendance Mark' section",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Attendance",
+  "enhancement": "'Classes not marked from (last 3 days)' card",
+  "what_dft_asked": "21 Nov: rename to 'Classes not marked from (last 3 days)'.",
+  "source": "None",
+  "what_we_built": "Lists running batches with a class day in the last 3 class days that has no attendance.",
+  "benefit": "Gaps in attendance are caught within days, not at the end of the course.",
+  "where_in_app": "Home, 'Attendance Mark' and 'Needs attention' sections",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Event Matrix",
+  "enhancement": "Event names fill themselves",
+  "what_dft_asked": "Not asked. DFT asked on 18 Nov to remove the event name box.",
+  "source": "None (client change request 18 Nov)",
+  "what_we_built": "The event's name fills itself as 'Programme - date', for example 'Summer Camp - 10 Nov 2026', and is updated on the last page if the programme changes. Help text says 'Just tap Next'.",
+  "benefit": "Every event has a clear, matching name in lists and reports with no typing.",
+  "where_in_app": "Event Matrix, first and last pages",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Event Matrix",
+  "enhancement": "People totals add themselves up",
+  "what_dft_asked": "Reports read Women, Children, Other and All Impacted; no automatic total asked. On 18 Nov DFT asked to split children into male and female.",
+  "source": "Forms, Reports rows 11-12; client change request 18 Nov",
+  "what_we_built": "Children = male + female children, and All Impacted = Women + Children + Other, both worked out by the app and locked.",
+  "benefit": "No adding mistakes in the people numbers that reach donors.",
+  "where_in_app": "Event Matrix, Impact page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Event Matrix",
+  "enhancement": "Indirect people when no ratio is set yet",
+  "what_dft_asked": "Indirect Beneficiary typed by hand. On 18 Nov DFT asked for it to be worked out from its ratio.",
+  "source": "Forms, Event Matrix row 6; client change request 18 Nov",
+  "what_we_built": "The ratios come from DFT's Program List. Since 19 Nov every programme in use has a ratio, so the box to type the number is gone; events saved earlier keep the number typed then.",
+  "benefit": "Events for every programme can be completed while DFT confirms the missing ratios.",
+  "where_in_app": "Event Matrix, Impact page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Event Matrix",
+  "enhancement": "Volunteer details must match the count",
+  "what_dft_asked": "Volunteer count (0 to 50), hours and amount, with a repeating group. On 18 Nov DFT asked for a volunteer section with male and female.",
+  "source": "Forms, Event Matrix rows 22-25; client change request 18 Nov",
+  "what_we_built": "The number of volunteer rows must match 'No of Volunteers', and male plus female must equal the total. Each row needs a date (not in the future), name, category, hours and task, and any contact number must be a valid mobile.",
+  "benefit": "Volunteer numbers in reports are complete and add up.",
+  "where_in_app": "Event Matrix, Volunteers page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Event Matrix",
+  "enhancement": "A submitted event must count people",
+  "what_dft_asked": "Editable until submitted (the lock was asked). Nothing on empty events.",
+  "source": "Scoping, Notes row 7",
+  "what_we_built": "A Draft can be saved with no numbers, but a Submitted event must count at least one person. Only an administrator can change an event after it is submitted.",
+  "benefit": "Empty or half-filled events never reach donor reports.",
+  "where_in_app": "Event Matrix, Submit page",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Event Matrix",
+  "enhancement": "Programme list matches the FY 2026-27 Annual Plan",
+  "what_dft_asked": "A list of 31 programmes; on 19 Nov DFT shared its final Program List.",
+  "source": "Forms, Event Matrix row 4; client email, 19 Nov 2026",
+  "what_we_built": "The lists follow DFT's final Program List. Added in Nov: Vision Care and Awareness Camp, Asani Free Distribution, Financial Literacy Program, Vocational Skill Training. Removed on 19 Nov: Pediatric Checkup, Personality Development, Spoken English, both ToT programmes, Vision Center (now under Vision Care) and Banking & Saving (now Financial Literacy). Removed programmes stay on old records.",
+  "benefit": "Every planned programme can be recorded and matched to the plan.",
+  "where_in_app": "Event Matrix and Annual Program Plan, Program Name",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Annual Plan",
+  "enhancement": "No programme twice in one plan",
+  "what_dft_asked": "Programme list filtered by category.",
+  "source": "Forms, Annual Program Plan row 4",
+  "what_we_built": "A programme already used in another row of the plan is not offered again, and a programme that does not belong to the row's category is refused.",
+  "benefit": "Plan targets are not double counted.",
+  "where_in_app": "Annual Program Plan, Program Details rows",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Annual Plan",
+  "enhancement": "Plan names fill themselves",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "The plan is named by financial year, for example 'Annual Plan FY 2026-27 - North Gujarat'; staff type only the zone or label.",
+  "benefit": "Plans are easy to find and compare year on year.",
+  "where_in_app": "Annual Program Plan, name box",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Annual Plan",
+  "enhancement": "Every programme can be planned",
+  "what_dft_asked": "11 programmes listed for the plan.",
+  "source": "Forms, Annual Program Plan row 4",
+  "what_we_built": "The plan offers every programme for the chosen pillar, the same list as the Event Matrix.",
+  "benefit": "Plan vs Actual can match every event to a plan line.",
+  "where_in_app": "Annual Program Plan, Program Name",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Annual Plan",
+  "enhancement": "Higher limit for expected beneficiaries",
+  "what_dft_asked": "Expected Beneficiaries from 0 to 1,000.",
+  "source": "Forms, Annual Program Plan row 5",
+  "what_we_built": "Expected Beneficiaries accepts 0 to 1,00,000, whole numbers only, on both the Annual Plan and the Event Matrix.",
+  "benefit": "Large programmes such as Asani distribution can be planned in full.",
+  "where_in_app": "Annual Program Plan and Event Matrix",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Dashboards (phone)",
+  "enhancement": "A home screen for each role",
+  "what_dft_asked": "One list of 7 cards for all users.",
+  "source": "Scoping, Mobile Dashboards sheet",
+  "what_we_built": "Each role opens its own home: Field Executive 'Attendance'; Mid-Managerial 'Coordinator Dashboard' with 'Supervisor Reports' one tap away; Management 'Management Dashboard'; Admin 'Admin Dashboard'.",
+  "benefit": "Each person sees their own work first.",
+  "where_in_app": "Home tab on the phone",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Dashboards (phone)",
+  "enhancement": "Cards sorted by urgency",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "Home is split into sections: Attendance Mark, Do first (overdue), Due now, and My entries. Coordinators and admins also get Check records.",
+  "benefit": "Late work is seen before anything else.",
+  "where_in_app": "Home tab",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Dashboards (phone)",
+  "enhancement": "Village filter on every dashboard",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "A Village filter at the top narrows every card to the villages picked.",
+  "benefit": "A worker covering several villages can work one village at a time.",
+  "where_in_app": "Home tab, filter",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Dashboards (phone)",
+  "enhancement": "Baseline and Endline cards",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "Cards for Baselines due, Endlines due, and Tests overdue (Baseline, Endline).",
+  "benefit": "Course tests no longer slip until someone searches for them.",
+  "where_in_app": "Home, 'Due now' and 'Do first' sections",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Dashboards (phone)",
+  "enhancement": "Activity cards",
+  "what_dft_asked": "One card: 'No of Beneficiary Registered'.",
+  "source": "Scoping, Mobile Dashboards row 2",
+  "what_we_built": "Cards for Registered this week, Visits this week, Registered last 30 days and Visits last 30 days, besides All beneficiaries.",
+  "benefit": "Staff and supervisors see whether today's and this week's work was saved.",
+  "where_in_app": "Home, 'My entries' and 'Totals'; Supervisor Reports",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Dashboards (phone)",
+  "enhancement": "Referral not followed card",
+  "what_dft_asked": "A % of completed referrals in reports only.",
+  "source": "Forms, Reports row 25",
+  "what_we_built": "A phone card lists people whose health follow-up in the last 90 days says they did not follow the referral; tapping opens the person.",
+  "benefit": "A ready call list of people who still need care.",
+  "where_in_app": "Home, 'Do first' and 'Needs attention' sections",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Dashboards (phone)",
+  "enhancement": "Events left in Draft card",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "A card lists Event Matrix records left in Draft for more than 7 days.",
+  "benefit": "Events do not stay out of the donor numbers because nobody pressed Submit.",
+  "where_in_app": "Coordinator, Supervisor, Management and Admin dashboards",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Dashboards (phone)",
+  "enhancement": "Short names that fit the phone",
+  "what_dft_asked": "Long card and form names, for example 'Daily Attendance - Livelihood Training Due'.",
+  "source": "Scoping, Mobile Dashboards rows 2-11",
+  "what_we_built": "Card and button names are short enough for a phone tile, for example 'Health follow-ups due', 'Baseline', 'Endline' and 'New record'.",
+  "benefit": "Names are no longer cut off on small screens.",
+  "where_in_app": "Home cards; New Form list",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Reports (Metabase)",
+  "enhancement": "Click a number to see the records",
+  "what_dft_asked": "Line lists for Partner-wise, State-wise and Health Follow-up only.",
+  "source": "Forms, Reports rows 18, 21, 25",
+  "what_we_built": "On the 8 report dashboards, clicking a number or a bar opens the list of events or people behind it. 47 click-through lists are tested.",
+  "benefit": "Any number can be checked in seconds before it goes to a donor.",
+  "where_in_app": "Metabase, all 8 report dashboards",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Reports (Metabase)",
+  "enhancement": "Filters on every report",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "Each dashboard has From date and To date filters, and most also have Pillar, Partner and State.",
+  "benefit": "One report answers many questions, such as one partner's results this quarter.",
+  "where_in_app": "Metabase, all report dashboards",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Reports (Metabase)",
+  "enhancement": "Plain-English notes on every report",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "Every chart and dashboard says what it shows, how it is worked out and how to use it, and a Reports Guide collects them in one document.",
+  "benefit": "Staff read the numbers the same way and trust them.",
+  "where_in_app": "Metabase, each card's description; Reports Guide",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Reports (Metabase)",
+  "enhancement": "Impact at a Glance dashboard",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "One page with headline numbers: lives touched, share of women and children, rupees per life touched, villages reached, plan delivered, referrals completed and graduates in work, with month-by-month reach and spend.",
+  "benefit": "Management and the US team get the whole picture on one screen.",
+  "where_in_app": "Metabase, dashboard 'Impact at a Glance'",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Reports (Metabase)",
+  "enhancement": "Our Impact Story",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "A short written story with 5 live charts that update with the data.",
+  "benefit": "A ready base for donor updates and the annual report.",
+  "where_in_app": "Metabase, document 'Our Impact Story'",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Reports (Metabase)",
+  "enhancement": "One official way to count",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "One saved definition: an event counts only when it is Submitted. Direct people, indirect people, investment and events delivered are built on it.",
+  "benefit": "Every report and person gets the same number for the same question.",
+  "where_in_app": "Metabase, saved segment and measures",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Reports (Metabase)",
+  "enhancement": "Weekly impact email",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "The Impact at a Glance dashboard is emailed every Monday at 9:00. It currently goes only to a Samanvay address until DFT names the people who should receive it.",
+  "benefit": "Leaders see the week's numbers without opening Metabase.",
+  "where_in_app": "Email",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Reports (Metabase)",
+  "enhancement": "Daily overdue follow-up alert",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "A daily 9:00 email with the count of overdue Health and Livelihood follow-ups. It holds counts only, no names, and is sent only when something is overdue. Currently to a Samanvay address only.",
+  "benefit": "Managers hear about slipping follow-ups the same day, with no personal data in email.",
+  "where_in_app": "Email",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Reports (Metabase)",
+  "enhancement": "Extra breakdowns",
+  "what_dft_asked": "18 indicators on 8 dashboards.",
+  "source": "Forms, Reports rows 11-28",
+  "what_we_built": "Added: why referrals were not followed, a referral call list, graduates followed up, employment by course, cost per person by programme, and funding source by quarter. Red, amber and green limits are proposals for DFT to confirm.",
+  "benefit": "Shows where to act, not only what happened.",
+  "where_in_app": "Metabase, Health Follow-up, Livelihood Outcome, Programme and CSR dashboards",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Reports (Metabase)",
+  "enhancement": "Reports link in the app menu",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "The app's menu has 'Desai reports (Metabase)', which opens DFT's report folder in the phone's browser. It needs internet and a Metabase login.",
+  "benefit": "Managers reach the reports from the app they already use.",
+  "where_in_app": "Phone menu, More",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Data quality",
+  "enhancement": "Every 'Other' asks what it is",
+  "what_dft_asked": "'Please specify' boxes asked only for the Endline outcome and the absence reason.",
+  "source": "Forms, Endline row 9; Daily Attendance row 7",
+  "what_we_built": "Every list with an 'Other' answer opens a required 'please specify' box: partner, place reached, diagnosis, cancellation reason, health scheme, treatment, support and more.",
+  "benefit": "No 'Other' answer is left unexplained in the data.",
+  "where_in_app": "All forms with an 'Other' answer",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Data quality",
+  "enhancement": "'None' answers cannot be mixed",
+  "what_dft_asked": "The 'Unique option' column left blank.",
+  "source": "Forms, Screening and Livelihood Event sheets",
+  "what_we_built": "'None', 'None of these assets' and 'No abnormality found' cannot be ticked together with other answers.",
+  "benefit": "Contradictory answers cannot be saved.",
+  "where_in_app": "Screening; Livelihood Event",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Data quality",
+  "enhancement": "No future dates",
+  "what_dft_asked": "Event start date not in the future.",
+  "source": "Forms, Event Matrix row 7",
+  "what_we_built": "Also refused: a volunteer date in the future. The expense month now comes from the event date.",
+  "benefit": "Dates in reports are real dates.",
+  "where_in_app": "Event Matrix",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Data quality",
+  "enhancement": "Sensible number limits",
+  "what_dft_asked": "A few limits given: age 5 to 100, volunteers 0 to 50, income 0 to 50,000.",
+  "source": "Forms, several sheets",
+  "what_we_built": "Every number has a sensible range, and whole numbers where needed: family members 1 to 30, Hb 4 to 18, people counts up to 1,00,000, money up to ₹10 crore, test scores 0 to 100, exchange rate 1 to 1,000.",
+  "benefit": "Typing slips, such as an extra zero, are caught on the spot.",
+  "where_in_app": "All forms with numbers",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Roles & access",
+  "enhancement": "Access set for every form and role",
+  "what_dft_asked": "Permissions for the Event Matrix only: all four roles view; Mid-Managerial and Field Executive edit.",
+  "source": "Forms and Scoping, Permissions sheet",
+  "what_we_built": "Access is set for every form. Field Executive and Mid-Managerial register people, record visits and manage batch members. Management can view everything and write the Annual Plan. Admin and Operations can view data and manage users, catchments, locations and uploads. Reports are open to Management, Mid-Managerial and Admin.",
+  "benefit": "Each person can do their own job and nothing that could damage data.",
+  "where_in_app": "Whole app",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Sync & offline",
+  "enhancement": "Half-filled forms are kept as drafts",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "Draft save is on: if the app closes mid-form, the answers are kept and can be finished later.",
+  "benefit": "No lost work when a phone switches off or a call comes in.",
+  "where_in_app": "All forms (organisation setting)",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Sync & offline",
+  "enhancement": "Phone cards tested at large scale",
+  "what_dft_asked": "Offline use asked; no size test asked.",
+  "source": "Scoping, W3H 'How' column",
+  "what_we_built": "The phone cards were timed with 90,000 people and 400,000 visits. The attendance and draft cards use a fast route on Avni's new phone database.",
+  "benefit": "The home screen stays quick as DFT's data grows.",
+  "where_in_app": "Home cards",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Sync & offline",
+  "enhancement": "Camp mode: phones share records at a camp",
+  "what_dft_asked": "Not in the three sheets (asked in DFT's 17 Sep email: several staff on one person at a camp).",
+  "source": "None",
+  "what_we_built": "Camp mode lets the registration desk and the screening booth use different phones and share records with no internet. The switch is on in the test site, but it has not been tested with several phones, and DFT must choose camp leads and decide between camp mode and phone encryption.",
+  "benefit": "Camps could run without paper and without entering data twice.",
+  "where_in_app": "Phone menu, camp mode (camp lead's phone)",
+  "status": "Planned"
+ },
+ {
+  "area": "Training & guides",
+  "enhancement": "Staff quick guide in three languages",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "A 15-page guide for field staff in English, Hindi and Gujarati. Written on 1 Nov, so it needs updating for later changes, and a Hindi and a Gujarati speaker at DFT should read it.",
+  "benefit": "Staff can learn and check the daily steps in their own language.",
+  "where_in_app": "PDF",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Training & guides",
+  "enhancement": "Trainer's reference guide",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "A 50-page reference guide in English, Hindi and Gujarati for trainers, including a 'If something goes wrong' section based on common support questions. Needs the same update and language check.",
+  "benefit": "Trainers have one place to look up any step.",
+  "where_in_app": "PDF",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Training & guides",
+  "enhancement": "Desai Avni App Guide (this practice site)",
+  "what_dft_asked": "Not asked",
+  "source": "None",
+  "what_we_built": "An interactive copy of the phone app with 24 guided lessons in English, Hindi and Gujarati, one per daily task and role. It runs the app's own forms, checks and cards from the 18 Nov update, so staff can practise without touching real data.",
+  "benefit": "New staff learn every screen by doing it, in their own language, before going to the field.",
+  "where_in_app": "Website, works on a phone too",
+  "status": "Live (website)"
+ },
+ {
+  "area": "Training & guides",
+  "enhancement": "Phone how-to video (Hindi draft)",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "A 3-minute Hindi video draft of the phone steps. It uses a computer voice and still screens, for review only.",
+  "benefit": "A base for short training videos once a real voice is recorded.",
+  "where_in_app": "Video file",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Training & guides",
+  "enhancement": "Practice data on the test site",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "The test site holds invented people, batches at every stage (running, ending today, ended, starting soon), a camp day, Endlines and classes.",
+  "benefit": "DFT's testers and trainees see realistic work without any real person's data.",
+  "where_in_app": "UAT test app",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Other",
+  "enhancement": "Search by name, village, age and gender",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "The search screen has separate Name, Village, Age and Gender boxes.",
+  "benefit": "Staff find the right person faster, even when names repeat.",
+  "where_in_app": "Search screen",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Other",
+  "enhancement": "Checks before every update",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "Before each update to the test site, 169 automatic tests check the app's behaviour, and the site is read back afterwards to confirm nothing else changed.",
+  "benefit": "Fewer surprises for DFT's staff after each change.",
+  "where_in_app": "How updates are released",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Other",
+  "enhancement": "Test record with videos",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "98 test cases written from the field worker's side, with results and short screen recordings, in one workbook.",
+  "benefit": "DFT can see what was tested and how each case behaves.",
+  "where_in_app": "Workbook and recordings",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Dashboards (phone)",
+  "enhancement": "Today page for field staff",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "One page with the day's overdue and due work by type and village, classes running with 'Not yet' for unmarked ones, and events left in Draft. Removed from the test site on 16 Nov while the Avni team reviews this kind of page; kept and ready to return.",
+  "benefit": "A field worker sees the whole day on one screen.",
+  "where_in_app": "Home, 'Reports' section (removed)",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Health camp",
+  "enhancement": "Camp day card",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "Live counts during a camp: people at the camp, screened, still to screen, follow-ups planned, by camp type. Removed from the test site on 16 Nov while the Avni team reviews this kind of page; kept and ready to return.",
+  "benefit": "The camp lead sees who is still waiting for screening.",
+  "where_in_app": "Home, 'Reports' section (removed)",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Attendance",
+  "enhancement": "Batch register grid",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "A student-by-class grid with present and absent marks, attendance % per student and those below 75% in red. Removed from the test site on 16 Nov while the Avni team reviews this kind of page; kept and ready to return.",
+  "benefit": "Trainers see the whole register at a glance.",
+  "where_in_app": "Home, 'Reports' section (removed)",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Dashboards (phone)",
+  "enhancement": "My team page for coordinators",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "Visits and registrations by each worker this week or last 30 days, late work by village, classes not marked and old drafts. Removed from the test site on 16 Nov while the Avni team reviews this kind of page; kept and ready to return.",
+  "benefit": "Coordinators see who needs help without calling each person.",
+  "where_in_app": "Coordinator home, 'Reports' section (removed)",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Dashboards (phone)",
+  "enhancement": "Reports inside the app, offline",
+  "what_dft_asked": "Reports in Metabase only.",
+  "source": "Forms, Reports sheet",
+  "what_we_built": "Phone pages for This year, Events, Health camps, Training, Plan vs Actual, Partner-wise and Livelihood outcome, with filters, tap-to-drill and an 'In short' summary. Removed from the test site on 16 Nov while the Avni team reviews this kind of page; kept and ready to return.",
+  "benefit": "Managers could read key numbers in the field without internet.",
+  "where_in_app": "Role dashboards, 'Reports' sections (removed)",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Data quality",
+  "enhancement": "Data quality page",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "Counts and lists of: events in Draft over 7 days, running batches with no class for 3 days, consent Yes without a photo, the same phone number on two people (last 4 digits only), people registered 14 days ago with no visit, students who joined after a batch ended, and classes marked after a batch ended. Removed from the test site on 16 Nov while the Avni team reviews this kind of page; kept and ready to return.",
+  "benefit": "The admin finds data problems weekly, not at quarter end.",
+  "where_in_app": "Admin home, 'Reports' section (removed)",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Other",
+  "enhancement": "Print pages on the web",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "Web print pages: course certificates, a paper attendance register, camp slips with the next follow-up date, a camp-day token sheet, and a one-page event report. All 35 print buttons were removed on 16 Nov; the pages are kept.",
+  "benefit": "Paper backups and documents for beneficiaries without retyping.",
+  "where_in_app": "Web app, print buttons (removed)",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Other",
+  "enhancement": "DFT splash screen",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "A start-up screen with the DFT logo and short reminders such as 'Consent first'. Removed on 16 Nov with the other extensions.",
+  "benefit": "The app feels like DFT's own tool.",
+  "where_in_app": "App start-up (removed)",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Dashboards (phone)",
+  "enhancement": "Full-page home for each role",
+  "what_dft_asked": "Not asked.",
+  "source": "None",
+  "what_we_built": "Full-page home screens: 'Today's road' for field staff and a 'Day Sheet' for coordinators, management and admin. They need a newer Avni version (18.4) and were shown only on a local test server.",
+  "benefit": "Each role would start from one clear page of today's work.",
+  "where_in_app": "Home (needs Avni 18.4)",
+  "status": "Built, not live"
+ },
+ {
+  "area": "Data quality",
+  "enhancement": "Possible duplicates card",
+  "what_dft_asked": "21 Nov: how will duplicates be identified and resolved?",
+  "source": "Client UAT points, 21 Nov 2026 (points 5 and 8)",
+  "what_we_built": "A card lists everyone who shares a first name, last name and village with someone else, so a coordinator can check and void the extra record. It follows the village filter.",
+  "benefit": "Duplicates entered on the web or at the same moment on two phones are still found.",
+  "where_in_app": "Coordinator and Admin Home, 'Check records'",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Health camp",
+  "enhancement": "Token numbers fill themselves",
+  "what_dft_asked": "21 Nov: generate token numbers automatically.",
+  "source": "Client UAT points, 21 Nov 2026 (point 9)",
+  "what_we_built": "On today's Health Camp entry, Token No. fills in the next number after the highest token recorded today on that phone. Staff can type a different one. One desk should hand out tokens. A 'Now serving' display is not possible in Avni.",
+  "benefit": "No token sheet to keep; no number given twice at one desk.",
+  "where_in_app": "Health Camp, Camp Details",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Event Matrix",
+  "enhancement": "Expense month from the event date",
+  "what_dft_asked": "21 Nov: show the month instead of the full date in Expenses.",
+  "source": "Client UAT points, 21 Nov 2026 (point 4)",
+  "what_we_built": "The expense date box is gone. 'Expense month' fills itself from the event date, for example 'Nov 2026'.",
+  "benefit": "One less thing to type, and the month always matches the event.",
+  "where_in_app": "Event Matrix, Finance & Budget",
+  "status": "Live on UAT"
+ },
+ {
+  "area": "Attendance",
+  "enhancement": "Attendance Mark section",
+  "what_dft_asked": "21 Nov: rename 'Mark Today' to 'Attendance Mark'.",
+  "source": "Client UAT points, 21 Nov 2026 (point 1)",
+  "what_we_built": "The Home section with the attendance cards is now called 'Attendance Mark'.",
+  "benefit": "Words staff asked for.",
+  "where_in_app": "Home",
+  "status": "Live on UAT"
+ }
+]
